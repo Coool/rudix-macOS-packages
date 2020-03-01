@@ -10,8 +10,8 @@
 160K	bc-1.07.1-macos10.11.pkg
 156K	bc-1.07.1-macos10.14.pkg
 160K	bmake-20170812.pkg
-120K	ccache-3.7.1-macos10.11.pkg
-112K	ccache-3.7.1-macos10.14.pkg
+108K	ccache-3.7.7-macos10.11.pkg
+104K	ccache-3.7.7-macos10.15.pkg
 200K	cscope-15.8b.pkg
 192K	ctags-5.8.pkg
 696K	cvs-1.11.23.pkg

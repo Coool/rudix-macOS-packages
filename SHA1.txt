@@ -10,8 +10,8 @@ ce3e270c6612242f7d0c79d617b46e51072dda91  autossh-1.4e.pkg
 eb61d9aa1de0a12e7abcd9e44afc9048d1b75920  bc-1.07.1-macos10.11.pkg
 6f0f7e3f9c1d3c9efb404cf0d010d7c0cafec9e6  bc-1.07.1-macos10.14.pkg
 a17de0e6f7b4a51d671a18d22b770a1b7f744707  bmake-20170812.pkg
-ed446cbfd67e85dd1fb9c46fe938cfdfd47faeef  ccache-3.7.1-macos10.11.pkg
-a5f30993b08db1e569e6b12d2455e2e4400beed6  ccache-3.7.1-macos10.14.pkg
+f7ef0e7ebb199fa643f3f95534b87dd6693a95d9  ccache-3.7.7-macos10.11.pkg
+75e6a5dd44b525b2d47fb95ef13a67afe9386efb  ccache-3.7.7-macos10.15.pkg
 b9144d7c11bf8116ca5038689e816387ce8d7ca1  cscope-15.8b.pkg
 b39812da0cedf1375de92d2fbadb15c41f829623  ctags-5.8.pkg
 d26b1dda92c4752953223b12ee881844c49044eb  cvs-1.11.23.pkg

@@ -10,8 +10,8 @@ autossh-1.4e.pkg
 bc-1.07.1-macos10.11.pkg
 bc-1.07.1-macos10.14.pkg
 bmake-20170812.pkg
-ccache-3.7.1-macos10.11.pkg
-ccache-3.7.1-macos10.14.pkg
+ccache-3.7.7-macos10.11.pkg
+ccache-3.7.7-macos10.15.pkg
 cscope-15.8b.pkg
 ctags-5.8.pkg
 cvs-1.11.23.pkg
