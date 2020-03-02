@@ -66,6 +66,8 @@
 332K	rcs-5.9.4-macos10.15.pkg
 1.5M	redis-4.0.11-macos10.11.pkg
 1.6M	redis-5.0.5-macos10.11.pkg
+116K	rsnapshot-1.4.3-macos10.11.pkg
+116K	rsnapshot-1.4.3-macos10.15.pkg
 1.7M	texinfo-6.6-macos10.11.pkg
 1.6M	texinfo-6.6-macos10.14.pkg
 200K	tig-2.3.3.pkg
