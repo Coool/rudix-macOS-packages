@@ -20,6 +20,8 @@
  46M	emacs-26.2-macos10.14.pkg
  74M	erlang-22.0-macos10.11.pkg
  74M	erlang-22.0-macos10.14.pkg
+172K	expat-2.2.9-macos10.11.pkg
+172K	expat-2.2.9-macos10.15.pkg
  27M	ffmpeg-4.1.3-macos10.11.pkg
  64M	ffmpeg-4.1.3-macos10.14.pkg
 1.8M	fossil-2.4.pkg
