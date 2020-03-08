@@ -15,6 +15,8 @@
 200K	cscope-15.8b.pkg
 192K	ctags-5.8.pkg
 696K	cvs-1.11.23.pkg
+384K	dropbear-2019.78-macos10.11.pkg
+392K	dropbear-2019.78-macos10.15.pkg
  92K	ed-1.14.2.pkg
  47M	emacs-26.2-macos10.11.pkg
  46M	emacs-26.2-macos10.14.pkg
