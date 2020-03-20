@@ -67,7 +67,8 @@
 2.4M	p7zip-16.02.pkg
 960K	pcre-8.42.pkg
 260K	pixman-0.34.0.pkg
-288K	pkg-config-0.29.2.pkg
+284K	pkg-config-0.29.2-macos10.11.pkg
+280K	pkg-config-0.29.2-macos10.15.pkg
  77M	qemu-2.11.1.pkg
 336K	rcs-5.9.4-macos10.11.pkg
 332K	rcs-5.9.4-macos10.15.pkg

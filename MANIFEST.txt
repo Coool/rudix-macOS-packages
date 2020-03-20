@@ -67,7 +67,8 @@ node-9.5.0.pkg
 p7zip-16.02.pkg
 pcre-8.42.pkg
 pixman-0.34.0.pkg
-pkg-config-0.29.2.pkg
+pkg-config-0.29.2-macos10.11.pkg
+pkg-config-0.29.2-macos10.15.pkg
 qemu-2.11.1.pkg
 rcs-5.9.4-macos10.11.pkg
 rcs-5.9.4-macos10.15.pkg
