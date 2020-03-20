@@ -4,7 +4,8 @@ argtable-2.13.pkg
 aria2-1.31.0.pkg
 asciidoc-8.6.9.pkg
 aspell-0.60.6.1.pkg
-autoconf-2.69.pkg
+autoconf-2.69-macos10.11.pkg
+autoconf-2.69-macos10.15.pkg
 automake-1.16.1-macos10.11.pkg
 automake-1.16.1-macos10.15.pkg
 autossh-1.4e.pkg
