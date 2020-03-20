@@ -5,7 +5,8 @@ f844570847979aa9ff319811708f537eac76cf89  argtable-2.13.pkg
 ca9334f01c5fc134e0dfc358d43185257e3d82db  asciidoc-8.6.9.pkg
 2f6c81a90b421d851195879b30c1fc8f2d82b8ba  aspell-0.60.6.1.pkg
 956adacca5a4ff815ecef733fe283811179bd3ed  autoconf-2.69.pkg
-f67f2e71a6b53c591956eedf22dacd26a14ef929  automake-1.15.pkg
+dbb8d4b1e5b22200094da256ef99e36d9e5c2089  automake-1.16.1-macos10.11.pkg
+d03a1655ef818b74a3ee26e112f996b4cfe57e28  automake-1.16.1-macos10.15.pkg
 ce3e270c6612242f7d0c79d617b46e51072dda91  autossh-1.4e.pkg
 eb61d9aa1de0a12e7abcd9e44afc9048d1b75920  bc-1.07.1-macos10.11.pkg
 6f0f7e3f9c1d3c9efb404cf0d010d7c0cafec9e6  bc-1.07.1-macos10.14.pkg

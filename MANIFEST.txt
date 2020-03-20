@@ -5,7 +5,8 @@ aria2-1.31.0.pkg
 asciidoc-8.6.9.pkg
 aspell-0.60.6.1.pkg
 autoconf-2.69.pkg
-automake-1.15.pkg
+automake-1.16.1-macos10.11.pkg
+automake-1.16.1-macos10.15.pkg
 autossh-1.4e.pkg
 bc-1.07.1-macos10.11.pkg
 bc-1.07.1-macos10.14.pkg

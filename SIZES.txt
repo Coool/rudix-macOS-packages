@@ -5,7 +5,8 @@
 236K	asciidoc-8.6.9.pkg
 920K	aspell-0.60.6.1.pkg
 1.3M	autoconf-2.69.pkg
-1016K	automake-1.15.pkg
+1.0M	automake-1.16.1-macos10.11.pkg
+1.0M	automake-1.16.1-macos10.15.pkg
  44K	autossh-1.4e.pkg
 160K	bc-1.07.1-macos10.11.pkg
 156K	bc-1.07.1-macos10.14.pkg
