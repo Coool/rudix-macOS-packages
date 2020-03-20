@@ -48,7 +48,8 @@ d704a8c8dd61f885f9c7a6b5d1a85bccf2c56971  gperftools-2.6.3.pkg
 3128717552aaa67d8df710231ab5371cc981af26  libressl-2.6.4.pkg
 f1a1eb1edbf363de48d7de565113b9a367e1154e  libressl-2.9.2-macos10.11.pkg
 08bf00894acc320eed2cde9450eae09b552372c5  libressl-2.9.2-macos10.14.pkg
-5f3e7c8480ea827df404e0d30f30037dafa4a027  libtool-2.4.6.pkg
+b977e6fc3cf913ecb250ef8ee8a7826bed756ff8  libtool-2.4.6-macos10.11.pkg
+9b3e278cfe593f198974916878ea205f15983ef0  libtool-2.4.6-macos10.15.pkg
 95a6d93bb2ae9b4e34124702e2615d4c98816084  libunistring-0.9.9.pkg
 abd00b04e119a07f1f4e8c23dc45afd1b9f83af7  libxmp-4.4.1.pkg
 025e5216fda57ce60fbc0226fbbc9da1d056a44e  libyaml-0.1.7.pkg

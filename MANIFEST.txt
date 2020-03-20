@@ -48,7 +48,8 @@ libintl-0.20.1-macos10.14.pkg
 libressl-2.6.4.pkg
 libressl-2.9.2-macos10.11.pkg
 libressl-2.9.2-macos10.14.pkg
-libtool-2.4.6.pkg
+libtool-2.4.6-macos10.11.pkg
+libtool-2.4.6-macos10.15.pkg
 libunistring-0.9.9.pkg
 libxmp-4.4.1.pkg
 libyaml-0.1.7.pkg
