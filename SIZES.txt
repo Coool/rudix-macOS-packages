@@ -13,18 +13,22 @@
 156K	bc-1.07.1-macos10.14.pkg
 156K	bc-1.07.1-macos10.15.pkg
 160K	bmake-20170812.pkg
+ 21M	boost-1.72.0-macos10.11.pkg
+ 21M	boost-1.72.0-macos10.15.pkg
 108K	ccache-3.7.7-macos10.11.pkg
 104K	ccache-3.7.7-macos10.15.pkg
 200K	cscope-15.8b.pkg
 192K	ctags-5.8.pkg
 696K	cvs-1.11.23.pkg
+2.6M	cython-0.29.15-macos10.11.pkg
+2.6M	cython-0.29.15-macos10.15.pkg
 384K	dropbear-2019.78-macos10.11.pkg
 392K	dropbear-2019.78-macos10.15.pkg
  92K	ed-1.14.2.pkg
  47M	emacs-26.3-macos10.11.pkg
  46M	emacs-26.3-macos10.15.pkg
- 74M	erlang-22.0-macos10.11.pkg
- 74M	erlang-22.0-macos10.14.pkg
+ 75M	erlang-22.3-macos10.11.pkg
+ 75M	erlang-22.3-macos10.15.pkg
 172K	expat-2.2.9-macos10.11.pkg
 172K	expat-2.2.9-macos10.15.pkg
  27M	ffmpeg-4.1.3-macos10.11.pkg
@@ -85,6 +89,6 @@
 492K	xz-5.2.3.pkg
 1.2M	yasm-1.3.0-macos10.11.pkg
 1.2M	yasm-1.3.0-macos10.14.pkg
-2.9M	zsh-5.7.1-macos10.11.pkg
-3.0M	zsh-5.7.1-macos10.14.pkg
+3.0M	zsh-5.8-macos10.11.pkg
+3.1M	zsh-5.8-macos10.15.pkg
 128K	zsync-0.6.2.pkg
