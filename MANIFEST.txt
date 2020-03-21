@@ -11,6 +11,7 @@ automake-1.16.1-macos10.15.pkg
 autossh-1.4e.pkg
 bc-1.07.1-macos10.11.pkg
 bc-1.07.1-macos10.14.pkg
+bc-1.07.1-macos10.15.pkg
 bmake-20170812.pkg
 ccache-3.7.7-macos10.11.pkg
 ccache-3.7.7-macos10.15.pkg

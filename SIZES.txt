@@ -11,6 +11,7 @@
  44K	autossh-1.4e.pkg
 160K	bc-1.07.1-macos10.11.pkg
 156K	bc-1.07.1-macos10.14.pkg
+156K	bc-1.07.1-macos10.15.pkg
 160K	bmake-20170812.pkg
 108K	ccache-3.7.7-macos10.11.pkg
 104K	ccache-3.7.7-macos10.15.pkg
