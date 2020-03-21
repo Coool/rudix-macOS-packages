@@ -21,8 +21,8 @@ cvs-1.11.23.pkg
 dropbear-2019.78-macos10.11.pkg
 dropbear-2019.78-macos10.15.pkg
 ed-1.14.2.pkg
-emacs-26.2-macos10.11.pkg
-emacs-26.2-macos10.14.pkg
+emacs-26.3-macos10.11.pkg
+emacs-26.3-macos10.15.pkg
 erlang-22.0-macos10.11.pkg
 erlang-22.0-macos10.14.pkg
 expat-2.2.9-macos10.11.pkg
