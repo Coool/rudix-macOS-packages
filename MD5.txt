@@ -19,6 +19,7 @@ MD5 (ccache-3.7.7-macos10.11.pkg) = 71a145b08e2bf9468168e83bdf2fa807
 MD5 (ccache-3.7.7-macos10.15.pkg) = 3250f882ca6193d7f7b13c8a062ff10b
 MD5 (cscope-15.8b.pkg) = 67324a0f3502dfb5e18004ca92e6e2ce
 MD5 (ctags-5.8.pkg) = ae52055d179e6ac6b13b2d4413971c28
+MD5 (cvs-1.11.23-macos10.15.pkg) = 5a0c8a74ef51359c1fe0417a71e394f7
 MD5 (cvs-1.11.23.pkg) = 38e103a54c87e3a7007e0c41eda87bf4
 MD5 (cython-0.29.15-macos10.11.pkg) = 0757833b129afe819ea3f757953f4d5c
 MD5 (cython-0.29.15-macos10.15.pkg) = dc69d85298508409d312f6e1cd356d84

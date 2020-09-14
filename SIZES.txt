@@ -19,6 +19,7 @@
 104K	ccache-3.7.7-macos10.15.pkg
 200K	cscope-15.8b.pkg
 192K	ctags-5.8.pkg
+684K	cvs-1.11.23-macos10.15.pkg
 696K	cvs-1.11.23.pkg
 2.6M	cython-0.29.15-macos10.11.pkg
 2.6M	cython-0.29.15-macos10.15.pkg

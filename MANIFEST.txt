@@ -19,6 +19,7 @@ ccache-3.7.7-macos10.11.pkg
 ccache-3.7.7-macos10.15.pkg
 cscope-15.8b.pkg
 ctags-5.8.pkg
+cvs-1.11.23-macos10.15.pkg
 cvs-1.11.23.pkg
 cython-0.29.15-macos10.11.pkg
 cython-0.29.15-macos10.15.pkg
