@@ -83,6 +83,7 @@ MD5 (redis-4.0.11-macos10.11.pkg) = 2037eab10099fd7ae449677ba6fa776b
 MD5 (redis-5.0.5-macos10.11.pkg) = 47f73a1e5aafdb669ebaec846f48490b
 MD5 (rsnapshot-1.4.3-macos10.11.pkg) = 11a7a8587bbc5c802fe5385b6eef96f7
 MD5 (rsnapshot-1.4.3-macos10.15.pkg) = 4a26582f7ba5e982f354ba2787dcbaf8
+MD5 (screen-4.8.0-macos10.15.pkg) = cb53af32bbace336cc17bd26cfa1ba94
 MD5 (texinfo-6.6-macos10.11.pkg) = 70a694de2826e90252a5af4b65115337
 MD5 (texinfo-6.6-macos10.14.pkg) = b2c8ff067bd183caca8733b3e4ab3d71
 MD5 (tig-2.3.3.pkg) = 4d296511344261bc032c09e3f95ceab1

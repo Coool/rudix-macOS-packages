@@ -83,6 +83,7 @@ redis-4.0.11-macos10.11.pkg
 redis-5.0.5-macos10.11.pkg
 rsnapshot-1.4.3-macos10.11.pkg
 rsnapshot-1.4.3-macos10.15.pkg
+screen-4.8.0-macos10.15.pkg
 texinfo-6.6-macos10.11.pkg
 texinfo-6.6-macos10.14.pkg
 tig-2.3.3.pkg
