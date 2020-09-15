@@ -67,6 +67,7 @@ MD5 (m4-1.4.18-macos10.11.pkg) = dd3940112c3c8c7b8d26bbc6c2abdfab
 MD5 (m4-1.4.18-macos10.15.pkg) = 3191fedce57071d7c670e0f9652a5234
 MD5 (make-4.2.1.pkg) = 6fea347f520d5dab79a9c21891cd5b35
 MD5 (mg3a-180101.pkg) = 5312daa5a22c1f033ee8099efac80dd3
+MD5 (mtr-0.92-macos10.15.pkg) = 015a2ae4bcf40d8ce314577d280265b0
 MD5 (nano-2.9.4.pkg) = ddb8a290e0bce151c8a425d28b5c57dd
 MD5 (ncftp-3.2.6.pkg) = 0acba68fdac6f233ed8a61a201de4ef5
 MD5 (ncurses-6.1.pkg) = 34d76a377468a6dd3dc089ce82b78430

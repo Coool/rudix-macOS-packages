@@ -67,6 +67,7 @@
 320K	m4-1.4.18-macos10.15.pkg
 376K	make-4.2.1.pkg
 164K	mg3a-180101.pkg
+ 92K	mtr-0.92-macos10.15.pkg
 532K	nano-2.9.4.pkg
 636K	ncftp-3.2.6.pkg
 3.1M	ncurses-6.1.pkg
