@@ -15,6 +15,7 @@ MD5 (bc-1.07.1-macos10.15.pkg) = bc6c03c828a72ad283d74a49bfd99095
 MD5 (bmake-20170812.pkg) = 85b6ddd6ee05f98e6392677278c2417e
 MD5 (boost-1.72.0-macos10.11.pkg) = 38614917785afda3980f6b9aa3631408
 MD5 (boost-1.72.0-macos10.15.pkg) = 922c53f8639109d2a1d9a2be3881412e
+MD5 (ccache-3.7.11-macos10.15.pkg) = 3c17376f4ba4e06c59f87746eb90f6d7
 MD5 (ccache-3.7.7-macos10.11.pkg) = 71a145b08e2bf9468168e83bdf2fa807
 MD5 (ccache-3.7.7-macos10.15.pkg) = 3250f882ca6193d7f7b13c8a062ff10b
 MD5 (cscope-15.8b.pkg) = 67324a0f3502dfb5e18004ca92e6e2ce
