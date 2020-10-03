@@ -78,7 +78,6 @@ a60e47ca14c58ee1150566227bb3375d328d4fc3  dtach-0.9-macos10.15.pkg
 4cfa17002baf6506201ba1dae3d1b2fb1d19de23  emacs-26.3-macos10.15.pkg
 addc31ebdd866db045eba6adc5f702f999ddf676  emacs-27.1-macos10.11.pkg
 c34415d2919e27cc0bb822ca318a1e8f963bd9a4  emacs-27.1-macos10.15.pkg
-2469b8aa2eaa8da92291de0b467e6db425bc1065  emacsinstall.pkg
 62b5c98e38d73d9986dc2bb1554eb89c3faa3543  erlang-22.3-macos10.11.pkg
 c76a6ec888555cdcc710b6d1e0a7e09cee3a1a46  erlang-22.3-macos10.15.pkg
 5c0deeb3b0183f6ac4f2006d517de473a66c5eb3  expat-2.2.9-macos10.11.pkg
@@ -112,6 +111,7 @@ a349a7e9620df28f419f903ec5c19179c42b78a6  genromfs-0.5.7-macos10.11.pkg
 adf8c2443eb15c0311abab0abde094c79803157c  genromfs-0.5.7-macos10.15.pkg
 49814697782e811c38d6c36afee4681598070663  gettext-0.20.1-macos10.11.pkg
 c8d65e9339f4d186de600ebb06ece4ceb12f3fb8  gettext-0.20.1-macos10.15.pkg
+923690a7b8e4e0f96791963000322d5a964dda70  gettext-0.21-macos10.15.pkg
 8c111d331081877bd2283318f755aa1b8c51564f  global-6.6.3-macos10.11.pkg
 d1da4cc62ef3c15586e67b601a00aef02e04ada0  global-6.6.3-macos10.15.pkg
 91bd9dafff0da9e5437f8f08f6c1f97341021540  gloox-1.0.18-macos10.11.pkg
@@ -300,6 +300,7 @@ d958d897598adc53a1ec2830d05409c489c4ac41  sox-14.4.1-macos10.15.pkg
 3ac431b5d7efee30d22075549f46cb684e846813  sqlite-3.12.2-macos10.11.pkg
 a7a47daaa1d2059d8425c0f22d9506a7d6368c2d  sqlite-3.12.2-macos10.15.pkg
 49653e32e7ff2949ff3486ad36cd4695a1a4a4e9  squid-3.5.7-macos10.11.pkg
+067e04e0f44c39ec4be82cff92ae2107000dd239  static-gettext-0.21-macos10.15.pkg
 2c3363e426662b022b38fca85da2e73c5e71c15a  static-libev-4.33-macos10.11.pkg
 0b4f96273b5d8dd90b6dcfac8a9874b77fc74032  static-libev-4.33-macos10.15.pkg
 14457c5e797a16740eb0914fef1263f59f1c7ab2  static-libintl-0.21-macos10.11.pkg

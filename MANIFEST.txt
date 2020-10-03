@@ -78,7 +78,6 @@ emacs-26.3-macos10.11.pkg
 emacs-26.3-macos10.15.pkg
 emacs-27.1-macos10.11.pkg
 emacs-27.1-macos10.15.pkg
-emacsinstall.pkg
 erlang-22.3-macos10.11.pkg
 erlang-22.3-macos10.15.pkg
 expat-2.2.9-macos10.11.pkg
@@ -112,6 +111,7 @@ genromfs-0.5.7-macos10.11.pkg
 genromfs-0.5.7-macos10.15.pkg
 gettext-0.20.1-macos10.11.pkg
 gettext-0.20.1-macos10.15.pkg
+gettext-0.21-macos10.15.pkg
 global-6.6.3-macos10.11.pkg
 global-6.6.3-macos10.15.pkg
 gloox-1.0.18-macos10.11.pkg
@@ -300,6 +300,7 @@ sox-14.4.1-macos10.15.pkg
 sqlite-3.12.2-macos10.11.pkg
 sqlite-3.12.2-macos10.15.pkg
 squid-3.5.7-macos10.11.pkg
+static-gettext-0.21-macos10.15.pkg
 static-libev-4.33-macos10.11.pkg
 static-libev-4.33-macos10.15.pkg
 static-libintl-0.21-macos10.11.pkg
