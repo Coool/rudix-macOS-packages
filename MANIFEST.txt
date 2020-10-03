@@ -218,7 +218,8 @@ lua-5.3.6-macos10.11.pkg
 lua-5.3.6-macos10.15.pkg
 lua-5.4.0-macos10.11.pkg
 lua-5.4.0-macos10.15.pkg
-luajit-2.0.4-macos10.11.pkg
+luajit-2.0.5-macos10.11.pkg
+luajit-2.0.5-macos10.15.pkg
 lunzip-1.11-macos10.11.pkg
 lunzip-1.11-macos10.15.pkg
 lzip-1.17-macos10.11.pkg
