@@ -206,6 +206,7 @@
 212K	libintl-0.20.1-macos10.11.pkg
 204K	libintl-0.20.1-macos10.14.pkg
 212K	libintl-0.20.1-macos10.15.pkg
+196K	libintl-0.21-macos10.15.pkg
 320K	libjpeg-9c-macos10.11.pkg
 320K	libjpeg-9c-macos10.15.pkg
 1.1M	libmemcached-1.0.18-macos10.11.pkg
@@ -343,6 +344,7 @@
 1.3M	sqlite-3.12.2-macos10.15.pkg
 2.8M	squid-3.5.7-macos10.11.pkg
 128K	static-libev-4.33-macos10.15.pkg
+248K	static-libintl-0.21-macos10.15.pkg
  48K	stm32flash-0.5-macos10.11.pkg
  44K	stm32flash-0.5-macos10.15.pkg
  48K	talloc-2.1.7-macos10.11.pkg

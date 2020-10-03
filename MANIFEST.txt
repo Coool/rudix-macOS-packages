@@ -206,6 +206,7 @@ libidn-1.33-macos10.15.pkg
 libintl-0.20.1-macos10.11.pkg
 libintl-0.20.1-macos10.14.pkg
 libintl-0.20.1-macos10.15.pkg
+libintl-0.21-macos10.15.pkg
 libjpeg-9c-macos10.11.pkg
 libjpeg-9c-macos10.15.pkg
 libmemcached-1.0.18-macos10.11.pkg
@@ -343,6 +344,7 @@ sqlite-3.12.2-macos10.11.pkg
 sqlite-3.12.2-macos10.15.pkg
 squid-3.5.7-macos10.11.pkg
 static-libev-4.33-macos10.15.pkg
+static-libintl-0.21-macos10.15.pkg
 stm32flash-0.5-macos10.11.pkg
 stm32flash-0.5-macos10.15.pkg
 talloc-2.1.7-macos10.11.pkg
