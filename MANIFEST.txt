@@ -227,6 +227,8 @@ m4-1.4.18-macos10.11.pkg
 m4-1.4.18-macos10.15.pkg
 make-4.2.1-macos10.11.pkg
 make-4.2.1-macos10.15.pkg
+make-4.3-macos10.11.pkg
+make-4.3-macos10.15.pkg
 mawk-1.3.4-macos10.11.pkg
 mawk-1.3.4-macos10.15.pkg
 mercurial-2.9.2-macos10.11.pkg
