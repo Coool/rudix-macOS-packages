@@ -79,7 +79,7 @@
  47M	emacs-27.1-macos10.11.pkg
  47M	emacs-27.1-macos10.15.pkg
  75M	erlang-22.3-macos10.11.pkg
- 80M	erlang-22.3-macos10.15.pkg
+ 75M	erlang-22.3-macos10.15.pkg
 168K	expat-2.2.9-macos10.11.pkg
 168K	expat-2.2.9-macos10.15.pkg
  27M	ffmpeg-4.1.3-macos10.11.pkg
@@ -111,6 +111,7 @@
  32K	genromfs-0.5.7-macos10.15.pkg
 4.4M	gettext-0.20.1-macos10.11.pkg
 4.4M	gettext-0.20.1-macos10.15.pkg
+4.0M	gettext-0.21-macos10.11.pkg
 3.9M	gettext-0.21-macos10.15.pkg
 824K	global-6.6.3-macos10.11.pkg
 832K	global-6.6.3-macos10.15.pkg
@@ -300,6 +301,7 @@
 1.3M	sqlite-3.12.2-macos10.11.pkg
 1.3M	sqlite-3.12.2-macos10.15.pkg
 2.8M	squid-3.5.7-macos10.11.pkg
+8.8M	static-gettext-0.21-macos10.11.pkg
 8.7M	static-gettext-0.21-macos10.15.pkg
 128K	static-libev-4.33-macos10.11.pkg
 128K	static-libev-4.33-macos10.15.pkg
