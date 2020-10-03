@@ -91,6 +91,7 @@ emacs-26.3-macos10.11.pkg
 emacs-26.3-macos10.15.pkg
 emacs-27.1-macos10.11.pkg
 emacs-27.1-macos10.15.pkg
+emacsinstall.pkg
 erlang-22.3-macos10.11.pkg
 erlang-22.3-macos10.15.pkg
 expat-2.2.9-macos10.11.pkg
@@ -125,7 +126,6 @@ gdbm-1.12-macos10.11.pkg
 gdbm-1.12-macos10.15.pkg
 genromfs-0.5.7-macos10.11.pkg
 genromfs-0.5.7-macos10.15.pkg
-gettext-0.19.8.1.pkg
 gettext-0.20.1-macos10.11.pkg
 gettext-0.20.1-macos10.14.pkg
 gettext-0.20.1-macos10.15.pkg
@@ -194,6 +194,7 @@ libao-1.2.0-macos10.11.pkg
 libao-1.2.0-macos10.15.pkg
 libdnet-1.12-macos10.11.pkg
 libdnet-1.12-macos10.15.pkg
+libev-4.33-macos10.11.pkg
 libev-4.33-macos10.15.pkg
 libevent-2.1.8-macos10.15.pkg
 libffi-3.2.1-macos10.11.pkg
@@ -204,8 +205,8 @@ libgsasl-1.8.0-macos10.15.pkg
 libidn-1.33-macos10.11.pkg
 libidn-1.33-macos10.15.pkg
 libintl-0.20.1-macos10.11.pkg
-libintl-0.20.1-macos10.14.pkg
 libintl-0.20.1-macos10.15.pkg
+libintl-0.21-macos10.11.pkg
 libintl-0.21-macos10.15.pkg
 libjpeg-9c-macos10.11.pkg
 libjpeg-9c-macos10.15.pkg
@@ -343,7 +344,9 @@ sox-14.4.1-macos10.15.pkg
 sqlite-3.12.2-macos10.11.pkg
 sqlite-3.12.2-macos10.15.pkg
 squid-3.5.7-macos10.11.pkg
+static-libev-4.33-macos10.11.pkg
 static-libev-4.33-macos10.15.pkg
+static-libintl-0.21-macos10.11.pkg
 static-libintl-0.21-macos10.15.pkg
 stm32flash-0.5-macos10.11.pkg
 stm32flash-0.5-macos10.15.pkg
