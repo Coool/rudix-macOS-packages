@@ -274,8 +274,12 @@ a3f23cf4b0d13a731fe214d8462e727638fc55b3  patchutils-0.3.4-macos10.11.pkg
 0b14590ab892610041772c2af8012a71236324e1  patchutils-0.3.4-macos10.15.pkg
 8b5945e24ccf5fb0cbba8de914239edef5077253  pcre-8.42-macos10.11.pkg
 57fd53424c87c4aabbdfef6ef0e1252b0d9f4b39  pcre-8.42-macos10.15.pkg
+2c5b500d8f8e958a32a794611f5f58ee5f7b8826  pcre-8.44-macos10.11.pkg
+eedbd568f2187666d3cb5596cc4ebeb75973a6c1  pcre-8.44-macos10.15.pkg
 dce6fb1d01b803f96668b11d0a102c98e51cf842  pkg-config-0.29.2-macos10.11.pkg
 24f18463e7d85bce19711be8dac0be7bc84c9123  pkg-config-0.29.2-macos10.15.pkg
+701114416e3bc08c0e037ca053455bcd0622959d  pkgconf-1.7.3-macos10.11.pkg
+3d29b58167c859f3a73b4f08c37cc83e6ff06048  pkgconf-1.7.3-macos10.15.pkg
 873a90f80ebf269b296290e8b95ea204dd546788  protobuf-3.5.1-macos10.11.pkg
 e67d798c84ac2e5d27c3ab81fe9fc9f2045f1245  protobuf-3.5.1-macos10.15.pkg
 da033e060183e78f3bf86782e7524e94a662b106  pv-1.4.6-macos10.11.pkg
@@ -312,6 +316,10 @@ e0c3d0349db5d9e26974650f16073f079ae59d53  static-gettext-0.21-macos10.11.pkg
 0b4f96273b5d8dd90b6dcfac8a9874b77fc74032  static-libev-4.33-macos10.15.pkg
 14457c5e797a16740eb0914fef1263f59f1c7ab2  static-libintl-0.21-macos10.11.pkg
 e55554e9b155cb1b0695465e1633fc54c0c4bc55  static-libintl-0.21-macos10.15.pkg
+7c24c7bf732aa5b291a3eb7ae04b1db98c6d48bd  static-pcre-8.44-macos10.11.pkg
+c42322a99fbc4b9eef2c493fafe2c43dbfae23a0  static-pcre-8.44-macos10.15.pkg
+c218b10d83dff2cc340a0ca0f8bcc1941c72e967  static-pkgconf-1.7.3-macos10.11.pkg
+519fc1c7acf37868d6d54dbba5af858b4b1119bb  static-pkgconf-1.7.3-macos10.15.pkg
 fd545e60b19141c3b82ce79cd75c65d4a54c3e68  stm32flash-0.5-macos10.11.pkg
 96fe88dfd41a75642d20601a04b5d89b817409a2  stm32flash-0.5-macos10.15.pkg
 0f8f404b5d8af392d74895b0e6b9aa7434657db9  talloc-2.1.7-macos10.11.pkg

@@ -274,8 +274,12 @@
 104K	patchutils-0.3.4-macos10.15.pkg
 1.1M	pcre-8.42-macos10.11.pkg
 1.1M	pcre-8.42-macos10.15.pkg
+956K	pcre-8.44-macos10.11.pkg
+968K	pcre-8.44-macos10.15.pkg
 280K	pkg-config-0.29.2-macos10.11.pkg
 276K	pkg-config-0.29.2-macos10.15.pkg
+ 68K	pkgconf-1.7.3-macos10.11.pkg
+ 68K	pkgconf-1.7.3-macos10.15.pkg
 4.2M	protobuf-3.5.1-macos10.11.pkg
 4.2M	protobuf-3.5.1-macos10.15.pkg
  52K	pv-1.4.6-macos10.11.pkg
@@ -312,6 +316,10 @@
 128K	static-libev-4.33-macos10.15.pkg
 252K	static-libintl-0.21-macos10.11.pkg
 248K	static-libintl-0.21-macos10.15.pkg
+1.2M	static-pcre-8.44-macos10.11.pkg
+1.2M	static-pcre-8.44-macos10.15.pkg
+ 92K	static-pkgconf-1.7.3-macos10.11.pkg
+ 88K	static-pkgconf-1.7.3-macos10.15.pkg
  48K	stm32flash-0.5-macos10.11.pkg
  44K	stm32flash-0.5-macos10.15.pkg
  48K	talloc-2.1.7-macos10.11.pkg
