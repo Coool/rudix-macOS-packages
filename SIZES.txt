@@ -312,6 +312,8 @@
 2.8M	squid-3.5.7-macos10.11.pkg
 8.8M	static-gettext-0.21-macos10.11.pkg
 8.7M	static-gettext-0.21-macos10.15.pkg
+812K	static-gmp-6.1.2-macos10.11.pkg
+800K	static-gmp-6.1.2-macos10.15.pkg
 128K	static-libev-4.33-macos10.11.pkg
 128K	static-libev-4.33-macos10.15.pkg
 252K	static-libintl-0.21-macos10.11.pkg

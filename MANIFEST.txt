@@ -312,6 +312,8 @@ sqlite-3.12.2-macos10.15.pkg
 squid-3.5.7-macos10.11.pkg
 static-gettext-0.21-macos10.11.pkg
 static-gettext-0.21-macos10.15.pkg
+static-gmp-6.1.2-macos10.11.pkg
+static-gmp-6.1.2-macos10.15.pkg
 static-libev-4.33-macos10.11.pkg
 static-libev-4.33-macos10.15.pkg
 static-libintl-0.21-macos10.11.pkg

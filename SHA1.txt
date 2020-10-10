@@ -312,6 +312,8 @@ a7a47daaa1d2059d8425c0f22d9506a7d6368c2d  sqlite-3.12.2-macos10.15.pkg
 49653e32e7ff2949ff3486ad36cd4695a1a4a4e9  squid-3.5.7-macos10.11.pkg
 e0c3d0349db5d9e26974650f16073f079ae59d53  static-gettext-0.21-macos10.11.pkg
 067e04e0f44c39ec4be82cff92ae2107000dd239  static-gettext-0.21-macos10.15.pkg
+e722a52445ac4eec5c953a999e59823791646e82  static-gmp-6.1.2-macos10.11.pkg
+dc7bc22370a01d0ae9d36252f7a0c27ab7a08b70  static-gmp-6.1.2-macos10.15.pkg
 2c3363e426662b022b38fca85da2e73c5e71c15a  static-libev-4.33-macos10.11.pkg
 0b4f96273b5d8dd90b6dcfac8a9874b77fc74032  static-libev-4.33-macos10.15.pkg
 14457c5e797a16740eb0914fef1263f59f1c7ab2  static-libintl-0.21-macos10.11.pkg
