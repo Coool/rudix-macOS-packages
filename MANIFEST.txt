@@ -113,6 +113,8 @@ gettext-0.20.1-macos10.11.pkg
 gettext-0.20.1-macos10.15.pkg
 gettext-0.21-macos10.11.pkg
 gettext-0.21-macos10.15.pkg
+glib-2.54.3-macos10.11.pkg
+glib-2.54.3-macos10.15.pkg
 global-6.6.3-macos10.11.pkg
 global-6.6.3-macos10.15.pkg
 gloox-1.0.18-macos10.11.pkg
@@ -312,6 +314,8 @@ sqlite-3.12.2-macos10.15.pkg
 squid-3.5.7-macos10.11.pkg
 static-gettext-0.21-macos10.11.pkg
 static-gettext-0.21-macos10.15.pkg
+static-glib-2.54.3-macos10.11.pkg
+static-glib-2.54.3-macos10.15.pkg
 static-gmp-6.1.2-macos10.11.pkg
 static-gmp-6.1.2-macos10.15.pkg
 static-libev-4.33-macos10.11.pkg
