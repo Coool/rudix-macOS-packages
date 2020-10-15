@@ -74,6 +74,8 @@ dropbear-2019.78-macos10.11.pkg
 dropbear-2019.78-macos10.15.pkg
 dtach-0.9-macos10.11.pkg
 dtach-0.9-macos10.15.pkg
+ed-1.16-macos10.11.pkg
+ed-1.16-macos10.15.pkg
 emacs-26.3-macos10.11.pkg
 emacs-26.3-macos10.15.pkg
 emacs-27.1-macos10.11.pkg
