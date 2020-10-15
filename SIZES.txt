@@ -305,6 +305,8 @@
 632K	screen-4.8.0-macos10.15.pkg
 268K	sed-4.7-macos10.11.pkg
 264K	sed-4.7-macos10.15.pkg
+268K	sed-4.8-macos10.11.pkg
+264K	sed-4.8-macos10.15.pkg
  44K	sexpr-1.2.1-macos10.11.pkg
 848K	slang-2.3.2-macos10.15.pkg
 252K	socat-1.7.3.3-macos10.11.pkg
