@@ -198,8 +198,8 @@
 464K	libpcap-1.6.2-macos10.11.pkg
 448K	libpng-1.6.14-macos10.11.pkg
 444K	libpng-1.6.14-macos10.15.pkg
-3.1M	libressl-2.9.2-macos10.11.pkg
-3.2M	libressl-2.9.2-macos10.15.pkg
+2.2M	libressl-3.1.4-macos10.11.pkg
+2.2M	libressl-3.1.4-macos10.15.pkg
 3.1M	libsigcpp-2.2.10-macos10.11.pkg
 3.2M	libsigcpp-2.2.10-macos10.15.pkg
  52K	libsigsegv-2.10-macos10.11.pkg
@@ -270,6 +270,8 @@
  64M	ocaml-4.03.0-macos10.15.pkg
 260K	offlineimap-6.5.6-macos10.11.pkg
 276K	offlineimap-6.5.6-macos10.15.pkg
+5.5M	openssl-1.1.1h-macos10.11.pkg
+5.7M	openssl-1.1.1h-macos10.15.pkg
 2.4M	p7zip-16.02-macos10.11.pkg
 2.4M	p7zip-16.02-macos10.15.pkg
 904K	parallel-20141122-macos10.11.pkg
@@ -326,6 +328,8 @@
 128K	static-libev-4.33-macos10.15.pkg
 252K	static-libintl-0.21-macos10.11.pkg
 248K	static-libintl-0.21-macos10.15.pkg
+4.0M	static-libressl-3.1.4-macos10.11.pkg
+4.0M	static-libressl-3.1.4-macos10.15.pkg
 1.2M	static-pcre-8.44-macos10.11.pkg
 1.2M	static-pcre-8.44-macos10.15.pkg
  92K	static-pkgconf-1.7.3-macos10.11.pkg

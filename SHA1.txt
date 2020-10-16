@@ -198,8 +198,8 @@ b260856bfd64da2c73d6c3562c563987344fc75f  libogg-1.3.2-macos10.11.pkg
 392260055ad587b6e891052c62f1536d24e44e96  libpcap-1.6.2-macos10.11.pkg
 ab12a8cdf9b2a00e8d771fe99e341cef3c7f92d6  libpng-1.6.14-macos10.11.pkg
 277d513213d59c2cfafa236c377e10239b5d2074  libpng-1.6.14-macos10.15.pkg
-43557a41e58b6adc261388d881d55b2c1938395d  libressl-2.9.2-macos10.11.pkg
-f6ca79875126753f6b58412742192881694d48ec  libressl-2.9.2-macos10.15.pkg
+8573a58bab8d2cf03c970b093247e066c1b539cb  libressl-3.1.4-macos10.11.pkg
+f8e80dec35beecac46a8b42cc0d68c33861c70a1  libressl-3.1.4-macos10.15.pkg
 506571c9d52d5db1a980ee9eb62ae980f7538d54  libsigcpp-2.2.10-macos10.11.pkg
 f355f77d0a2d9a731385c2c214ad92c58987cad7  libsigcpp-2.2.10-macos10.15.pkg
 38255ac93ed0ee22689d2f2754d3d32c4eedc1be  libsigsegv-2.10-macos10.11.pkg
@@ -270,6 +270,8 @@ f725131038b5e6eb2ccb816f05e07f40fd1a64bc  oc-3.11.0-macos10.15.pkg
 4026cceab5c11f55d573154d2ac978234ed19abe  ocaml-4.03.0-macos10.15.pkg
 846c3f00e3c65dde34356d7e797c91c373368aee  offlineimap-6.5.6-macos10.11.pkg
 e19e0b202648fa8b24ba88b1eebf85e2a139046b  offlineimap-6.5.6-macos10.15.pkg
+17297d60c117a25ea1a42b6a1a51b9d23c43d5bf  openssl-1.1.1h-macos10.11.pkg
+33bd9d6d3b0892dc617dcdac2b8ed2ae12ec9559  openssl-1.1.1h-macos10.15.pkg
 274ef3e62dd795e3a1a3b8f08fffdc54717baf92  p7zip-16.02-macos10.11.pkg
 5235095ffb45fa00b38806fadb006d858a1a22b3  p7zip-16.02-macos10.15.pkg
 46f569330b5ea3f46abda314670d9b28208cfe2f  parallel-20141122-macos10.11.pkg
@@ -326,6 +328,8 @@ dc7bc22370a01d0ae9d36252f7a0c27ab7a08b70  static-gmp-6.1.2-macos10.15.pkg
 0b4f96273b5d8dd90b6dcfac8a9874b77fc74032  static-libev-4.33-macos10.15.pkg
 14457c5e797a16740eb0914fef1263f59f1c7ab2  static-libintl-0.21-macos10.11.pkg
 e55554e9b155cb1b0695465e1633fc54c0c4bc55  static-libintl-0.21-macos10.15.pkg
+416772c5fb3791af678695cd206554f5961026cc  static-libressl-3.1.4-macos10.11.pkg
+514c602ebe2cf675e5e3096928c8ef7b0208cadb  static-libressl-3.1.4-macos10.15.pkg
 7c24c7bf732aa5b291a3eb7ae04b1db98c6d48bd  static-pcre-8.44-macos10.11.pkg
 c42322a99fbc4b9eef2c493fafe2c43dbfae23a0  static-pcre-8.44-macos10.15.pkg
 c218b10d83dff2cc340a0ca0f8bcc1941c72e967  static-pkgconf-1.7.3-macos10.11.pkg
