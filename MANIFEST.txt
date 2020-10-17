@@ -303,6 +303,8 @@ readline-8.0-macos10.15.pkg
 redis-4.0.11-macos10.11.pkg
 redis-5.0.5-macos10.11.pkg
 redis-5.0.5-macos10.15.pkg
+rhash-1.4.0-macos10.11.pkg
+rhash-1.4.0-macos10.15.pkg
 rsnapshot-1.4.3-macos10.11.pkg
 rsnapshot-1.4.3-macos10.15.pkg
 rzip-2.1-macos10.11.pkg

@@ -303,6 +303,8 @@
 1.5M	redis-4.0.11-macos10.11.pkg
 1.6M	redis-5.0.5-macos10.11.pkg
 1.6M	redis-5.0.5-macos10.15.pkg
+180K	rhash-1.4.0-macos10.11.pkg
+180K	rhash-1.4.0-macos10.15.pkg
 112K	rsnapshot-1.4.3-macos10.11.pkg
 112K	rsnapshot-1.4.3-macos10.15.pkg
  36K	rzip-2.1-macos10.11.pkg
