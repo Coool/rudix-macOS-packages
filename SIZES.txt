@@ -180,7 +180,8 @@
  84K	libdnet-1.12-macos10.15.pkg
 128K	libev-4.33-macos10.11.pkg
 124K	libev-4.33-macos10.15.pkg
-720K	libevent-2.1.8-macos10.15.pkg
+1.2M	libevent-2.1.12-macos10.11.pkg
+1.2M	libevent-2.1.12-macos10.15.pkg
 172K	libffi-3.2.1-macos10.11.pkg
 164K	libffi-3.2.1-macos10.15.pkg
 272K	libgsasl-1.8.0-macos10.11.pkg
@@ -335,6 +336,8 @@
 800K	static-gmp-6.1.2-macos10.15.pkg
 128K	static-libev-4.33-macos10.11.pkg
 128K	static-libev-4.33-macos10.15.pkg
+500K	static-libevent-2.1.12-macos10.11.pkg
+500K	static-libevent-2.1.12-macos10.15.pkg
 252K	static-libintl-0.21-macos10.11.pkg
 248K	static-libintl-0.21-macos10.15.pkg
 4.0M	static-libressl-3.1.4-macos10.11.pkg
