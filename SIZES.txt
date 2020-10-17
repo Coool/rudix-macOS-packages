@@ -48,8 +48,8 @@
 128K	cflow-1.4-macos10.15.pkg
 148K	check-0.11.0-macos10.11.pkg
 148K	check-0.11.0-macos10.15.pkg
- 17M	cmake-3.18.2-macos10.11.pkg
- 18M	cmake-3.18.2-macos10.15.pkg
+ 17M	cmake-3.18.4-macos10.11.pkg
+ 18M	cmake-3.18.4-macos10.15.pkg
  72K	cntlm-0.92.3-macos10.11.pkg
  72K	cntlm-0.92.3-macos10.15.pkg
 4.0M	coreutils-8.30-macos10.11.pkg

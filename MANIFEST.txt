@@ -48,8 +48,8 @@ cflow-1.4-macos10.11.pkg
 cflow-1.4-macos10.15.pkg
 check-0.11.0-macos10.11.pkg
 check-0.11.0-macos10.15.pkg
-cmake-3.18.2-macos10.11.pkg
-cmake-3.18.2-macos10.15.pkg
+cmake-3.18.4-macos10.11.pkg
+cmake-3.18.4-macos10.15.pkg
 cntlm-0.92.3-macos10.11.pkg
 cntlm-0.92.3-macos10.15.pkg
 coreutils-8.30-macos10.11.pkg
