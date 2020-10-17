@@ -198,6 +198,8 @@
 464K	libpcap-1.6.2-macos10.11.pkg
 448K	libpng-1.6.14-macos10.11.pkg
 444K	libpng-1.6.14-macos10.15.pkg
+108K	libproxy-0.4.15-macos10.11.pkg
+104K	libproxy-0.4.15-macos10.15.pkg
 2.2M	libressl-3.1.4-macos10.11.pkg
 2.2M	libressl-3.1.4-macos10.15.pkg
 3.1M	libsigcpp-2.2.10-macos10.11.pkg

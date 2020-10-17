@@ -198,6 +198,8 @@ libogg-1.3.2-macos10.15.pkg
 libpcap-1.6.2-macos10.11.pkg
 libpng-1.6.14-macos10.11.pkg
 libpng-1.6.14-macos10.15.pkg
+libproxy-0.4.15-macos10.11.pkg
+libproxy-0.4.15-macos10.15.pkg
 libressl-3.1.4-macos10.11.pkg
 libressl-3.1.4-macos10.15.pkg
 libsigcpp-2.2.10-macos10.11.pkg
