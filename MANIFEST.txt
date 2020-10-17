@@ -164,6 +164,10 @@ joe-4.6-macos10.11.pkg
 joe-4.6-macos10.15.pkg
 jquery-3.1.1-macos10.11.pkg
 jquery-3.1.1-macos10.15.pkg
+json-c-0.15-macos10.11.pkg
+json-c-0.15-macos10.15.pkg
+jsoncpp-1.9.4-macos10.11.pkg
+jsoncpp-1.9.4-macos10.15.pkg
 lame-3.99.5-macos10.11.pkg
 lame-3.99.5-macos10.15.pkg
 latex2rtf-2.3.17-macos10.11.pkg
