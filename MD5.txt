@@ -252,6 +252,7 @@ MD5 (midicsv-1.1-macos10.11.pkg) = 03b2626f037e173a0065f12189348a38
 MD5 (midicsv-1.1-macos10.15.pkg) = 14277bece3eb10f0d177af285df4daec
 MD5 (mpg123-1.22.4-macos10.11.pkg) = d891c744ad39b8eeb31285f5884c8dcb
 MD5 (mpg123-1.22.4-macos10.15.pkg) = 1d358fadc181b812bf11217cff423b65
+MD5 (mtr-0.92-macos10.11.pkg) = fb8ea2c53171f17f0f21c6e308ac8a69
 MD5 (mtr-0.92-macos10.15.pkg) = f121fd5f5418231a2989808c3c42dc1d
 MD5 (nasm-2.14.02-macos10.11.pkg) = 1df925282e7bdc4a69697fd5805c3ed3
 MD5 (nasm-2.14.02-macos10.15.pkg) = 6b5adc6525f1b0f5a22afb0e4a2c4dc3

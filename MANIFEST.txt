@@ -252,6 +252,7 @@ midicsv-1.1-macos10.11.pkg
 midicsv-1.1-macos10.15.pkg
 mpg123-1.22.4-macos10.11.pkg
 mpg123-1.22.4-macos10.15.pkg
+mtr-0.92-macos10.11.pkg
 mtr-0.92-macos10.15.pkg
 nasm-2.14.02-macos10.11.pkg
 nasm-2.14.02-macos10.15.pkg
