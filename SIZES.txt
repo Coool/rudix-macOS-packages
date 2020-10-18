@@ -263,6 +263,8 @@
 652K	ncftp-3.2.6-macos10.15.pkg
 3.1M	ncurses-6.1-macos10.11.pkg
 3.3M	ncurses-6.1-macos10.15.pkg
+948K	neon-0.31.2-macos10.11.pkg
+852K	neon-0.31.2-macos10.15.pkg
 600K	nettle-3.4.1-macos10.11.pkg
 596K	nettle-3.4.1-macos10.15.pkg
 104K	ninja-1.9.0-macos10.11.pkg
@@ -342,6 +344,8 @@
 248K	static-libintl-0.21-macos10.15.pkg
 4.0M	static-libressl-3.1.4-macos10.11.pkg
 4.0M	static-libressl-3.1.4-macos10.15.pkg
+256K	static-neon-0.31.2-macos10.11.pkg
+256K	static-neon-0.31.2-macos10.15.pkg
 1.2M	static-pcre-8.44-macos10.11.pkg
 1.2M	static-pcre-8.44-macos10.15.pkg
  92K	static-pkgconf-1.7.3-macos10.11.pkg

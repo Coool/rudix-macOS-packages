@@ -263,6 +263,8 @@ fe9a9bf33bf86935bf31e2de2aaee0a508608ed6  ncftp-3.2.6-macos10.11.pkg
 75067d4a813eea833c2cb5e43166301c99b8fdb3  ncftp-3.2.6-macos10.15.pkg
 8446614595bd8fdd6583b8623191ddce7ccf02d4  ncurses-6.1-macos10.11.pkg
 6e67584b4b986e415af73697e275b515b747c526  ncurses-6.1-macos10.15.pkg
+33f2e9b6ce1cbf4f3c1675c8572c74d2f2ef5157  neon-0.31.2-macos10.11.pkg
+7d155a9099812ceec962cd550999b0412576c9d3  neon-0.31.2-macos10.15.pkg
 4d352b1e3d86b4a763865bfefb9b4e0591ea4475  nettle-3.4.1-macos10.11.pkg
 96b3ee0244510a9c20fa027b440e25dd1a9ed121  nettle-3.4.1-macos10.15.pkg
 62b92f5e63b6e32ad719b5abe7d666180f087abd  ninja-1.9.0-macos10.11.pkg
@@ -342,6 +344,8 @@ dc7bc22370a01d0ae9d36252f7a0c27ab7a08b70  static-gmp-6.1.2-macos10.15.pkg
 e55554e9b155cb1b0695465e1633fc54c0c4bc55  static-libintl-0.21-macos10.15.pkg
 416772c5fb3791af678695cd206554f5961026cc  static-libressl-3.1.4-macos10.11.pkg
 514c602ebe2cf675e5e3096928c8ef7b0208cadb  static-libressl-3.1.4-macos10.15.pkg
+de176a1bdf4d33743a770bb3f983b2fa0b9631bf  static-neon-0.31.2-macos10.11.pkg
+80fe5989e47ff9ad5070c695e8de59b32bc1683e  static-neon-0.31.2-macos10.15.pkg
 7c24c7bf732aa5b291a3eb7ae04b1db98c6d48bd  static-pcre-8.44-macos10.11.pkg
 c42322a99fbc4b9eef2c493fafe2c43dbfae23a0  static-pcre-8.44-macos10.15.pkg
 c218b10d83dff2cc340a0ca0f8bcc1941c72e967  static-pkgconf-1.7.3-macos10.11.pkg
