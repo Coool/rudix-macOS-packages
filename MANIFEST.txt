@@ -358,6 +358,8 @@ static-pkgconf-1.7.3-macos10.11.pkg
 static-pkgconf-1.7.3-macos10.15.pkg
 stm32flash-0.5-macos10.11.pkg
 stm32flash-0.5-macos10.15.pkg
+subversion-1.14.0-macos10.11.pkg
+subversion-1.14.0-macos10.15.pkg
 talloc-2.1.7-macos10.11.pkg
 talloc-2.1.7-macos10.15.pkg
 tar-1.27-macos10.11.pkg

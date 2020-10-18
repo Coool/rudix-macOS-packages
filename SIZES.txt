@@ -358,6 +358,8 @@
  88K	static-pkgconf-1.7.3-macos10.15.pkg
  48K	stm32flash-0.5-macos10.11.pkg
  44K	stm32flash-0.5-macos10.15.pkg
+2.1M	subversion-1.14.0-macos10.11.pkg
+2.0M	subversion-1.14.0-macos10.15.pkg
  48K	talloc-2.1.7-macos10.11.pkg
  44K	talloc-2.1.7-macos10.15.pkg
 632K	tar-1.27-macos10.11.pkg
