@@ -6,6 +6,10 @@ ack-2.20-macos10.11.pkg
 ack-2.20-macos10.15.pkg
 aewan-1.0.01-macos10.11.pkg
 aewan-1.0.01-macos10.15.pkg
+apr-1.7.0-macos10.11.pkg
+apr-1.7.0-macos10.15.pkg
+apr-util-1.6.1-macos10.11.pkg
+apr-util-1.6.1-macos10.15.pkg
 argtable-2.13-macos10.11.pkg
 argtable-2.13-macos10.15.pkg
 aria2-1.31.0-macos10.11.pkg
@@ -330,6 +334,8 @@ sox-14.4.1-macos10.15.pkg
 sqlite-3.12.2-macos10.11.pkg
 sqlite-3.12.2-macos10.15.pkg
 squid-3.5.7-macos10.11.pkg
+static-apr-1.7.0-macos10.11.pkg
+static-apr-1.7.0-macos10.15.pkg
 static-gettext-0.21-macos10.11.pkg
 static-gettext-0.21-macos10.15.pkg
 static-glib-2.54.3-macos10.11.pkg

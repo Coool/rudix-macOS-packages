@@ -6,6 +6,10 @@
  48K	ack-2.20-macos10.15.pkg
 132K	aewan-1.0.01-macos10.11.pkg
 128K	aewan-1.0.01-macos10.15.pkg
+324K	apr-1.7.0-macos10.11.pkg
+320K	apr-1.7.0-macos10.15.pkg
+180K	apr-util-1.6.1-macos10.11.pkg
+180K	apr-util-1.6.1-macos10.15.pkg
 2.9M	argtable-2.13-macos10.11.pkg
 2.9M	argtable-2.13-macos10.15.pkg
 1.2M	aria2-1.31.0-macos10.11.pkg
@@ -330,6 +334,8 @@
 1.3M	sqlite-3.12.2-macos10.11.pkg
 1.3M	sqlite-3.12.2-macos10.15.pkg
 2.8M	squid-3.5.7-macos10.11.pkg
+344K	static-apr-1.7.0-macos10.11.pkg
+340K	static-apr-1.7.0-macos10.15.pkg
 8.8M	static-gettext-0.21-macos10.11.pkg
 8.7M	static-gettext-0.21-macos10.15.pkg
  15M	static-glib-2.54.3-macos10.11.pkg
