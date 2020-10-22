@@ -166,6 +166,8 @@ cb02170ea2f269971fcfab41cb5ca98d465aa44b  jemalloc-4.4.0-macos10.11.pkg
 cff9fff58ceb31d2a3e284e4acaa692046e06a9f  jhead-3.00-macos10.15.pkg
 3ebada7baa869d040e26e647c018d5cf435945ef  joe-4.6-macos10.11.pkg
 579e09f5c257dcc6a3fb801179d058e2a79f328a  joe-4.6-macos10.15.pkg
+fdcea74119f2abde88aa33119a3655b2aa641977  jq-1.6-macos10.11.pkg
+9ee828e3445bdc5f7c30d05871d0d345ff854eac  jq-1.6-macos10.15.pkg
 f9a8f8348ef14aafa84cfd05c51cd8475bab30c0  jquery-3.1.1-macos10.11.pkg
 5f166c961de18005987019f07791482ee62338b1  jquery-3.1.1-macos10.15.pkg
 ccb6e515a9f5530b8264daf0decadd90ef83127e  json-c-0.15-macos10.11.pkg

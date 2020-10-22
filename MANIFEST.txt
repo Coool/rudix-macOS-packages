@@ -166,6 +166,8 @@ jhead-3.00-macos10.11.pkg
 jhead-3.00-macos10.15.pkg
 joe-4.6-macos10.11.pkg
 joe-4.6-macos10.15.pkg
+jq-1.6-macos10.11.pkg
+jq-1.6-macos10.15.pkg
 jquery-3.1.1-macos10.11.pkg
 jquery-3.1.1-macos10.15.pkg
 json-c-0.15-macos10.11.pkg

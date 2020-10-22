@@ -166,6 +166,8 @@
  40K	jhead-3.00-macos10.15.pkg
 708K	joe-4.6-macos10.11.pkg
 708K	joe-4.6-macos10.15.pkg
+328K	jq-1.6-macos10.11.pkg
+324K	jq-1.6-macos10.15.pkg
  40K	jquery-3.1.1-macos10.11.pkg
  36K	jquery-3.1.1-macos10.15.pkg
  92K	json-c-0.15-macos10.11.pkg
