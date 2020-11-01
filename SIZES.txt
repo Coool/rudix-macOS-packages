@@ -360,6 +360,8 @@
 248K	static-libintl-0.21-macos10.15.pkg
 4.0M	static-libressl-3.1.4-macos10.11.pkg
 4.0M	static-libressl-3.1.4-macos10.15.pkg
+872K	static-libunistring-0.9.10-macos10.11.pkg
+864K	static-libunistring-0.9.10-macos10.15.pkg
 256K	static-neon-0.31.2-macos10.11.pkg
 256K	static-neon-0.31.2-macos10.15.pkg
 1.2M	static-pcre-8.44-macos10.11.pkg

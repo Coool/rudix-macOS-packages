@@ -360,6 +360,8 @@ dc7bc22370a01d0ae9d36252f7a0c27ab7a08b70  static-gmp-6.1.2-macos10.15.pkg
 e55554e9b155cb1b0695465e1633fc54c0c4bc55  static-libintl-0.21-macos10.15.pkg
 416772c5fb3791af678695cd206554f5961026cc  static-libressl-3.1.4-macos10.11.pkg
 514c602ebe2cf675e5e3096928c8ef7b0208cadb  static-libressl-3.1.4-macos10.15.pkg
+72ce041f5f1b7c90e7dfa47fbe2b0c8a70f0e276  static-libunistring-0.9.10-macos10.11.pkg
+642241bda1d26e013af55ee9bc2cfdcedc888f0c  static-libunistring-0.9.10-macos10.15.pkg
 de176a1bdf4d33743a770bb3f983b2fa0b9631bf  static-neon-0.31.2-macos10.11.pkg
 80fe5989e47ff9ad5070c695e8de59b32bc1683e  static-neon-0.31.2-macos10.15.pkg
 7c24c7bf732aa5b291a3eb7ae04b1db98c6d48bd  static-pcre-8.44-macos10.11.pkg
