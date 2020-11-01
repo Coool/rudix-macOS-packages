@@ -215,6 +215,8 @@ ab12a8cdf9b2a00e8d771fe99e341cef3c7f92d6  libpng-1.6.14-macos10.11.pkg
 277d513213d59c2cfafa236c377e10239b5d2074  libpng-1.6.14-macos10.15.pkg
 4606a6b734df077f01b0afc8a6327f59ceb18738  libproxy-0.4.15-macos10.11.pkg
 348f8919b86c250201c04b665d99acc6122d538d  libproxy-0.4.15-macos10.15.pkg
+17ab15bd00429480a896004240885f64165d7f11  libpsl-0.21.1-macos10.11.pkg
+3c904580b46744c48e8000da30d6e87d96892628  libpsl-0.21.1-macos10.15.pkg
 8573a58bab8d2cf03c970b093247e066c1b539cb  libressl-3.1.4-macos10.11.pkg
 f8e80dec35beecac46a8b42cc0d68c33861c70a1  libressl-3.1.4-macos10.15.pkg
 506571c9d52d5db1a980ee9eb62ae980f7538d54  libsigcpp-2.2.10-macos10.11.pkg
@@ -358,6 +360,8 @@ dc7bc22370a01d0ae9d36252f7a0c27ab7a08b70  static-gmp-6.1.2-macos10.15.pkg
 6cb42ed9e1de2514f9bbb1e70c6b64fe24143c33  static-libidn2-2.3.0-macos10.15.pkg
 14457c5e797a16740eb0914fef1263f59f1c7ab2  static-libintl-0.21-macos10.11.pkg
 e55554e9b155cb1b0695465e1633fc54c0c4bc55  static-libintl-0.21-macos10.15.pkg
+5c53a072903514d4b9083763cf52e875747adfd2  static-libpsl-0.21.1-macos10.11.pkg
+8c524ac0bc139bae02a5114d4cf17abc6ec4100d  static-libpsl-0.21.1-macos10.15.pkg
 416772c5fb3791af678695cd206554f5961026cc  static-libressl-3.1.4-macos10.11.pkg
 514c602ebe2cf675e5e3096928c8ef7b0208cadb  static-libressl-3.1.4-macos10.15.pkg
 72ce041f5f1b7c90e7dfa47fbe2b0c8a70f0e276  static-libunistring-0.9.10-macos10.11.pkg

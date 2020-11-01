@@ -215,6 +215,8 @@
 444K	libpng-1.6.14-macos10.15.pkg
 108K	libproxy-0.4.15-macos10.11.pkg
 104K	libproxy-0.4.15-macos10.15.pkg
+200K	libpsl-0.21.1-macos10.11.pkg
+196K	libpsl-0.21.1-macos10.15.pkg
 2.2M	libressl-3.1.4-macos10.11.pkg
 2.2M	libressl-3.1.4-macos10.15.pkg
 3.1M	libsigcpp-2.2.10-macos10.11.pkg
@@ -358,6 +360,8 @@
 312K	static-libidn2-2.3.0-macos10.15.pkg
 252K	static-libintl-0.21-macos10.11.pkg
 248K	static-libintl-0.21-macos10.15.pkg
+248K	static-libpsl-0.21.1-macos10.11.pkg
+244K	static-libpsl-0.21.1-macos10.15.pkg
 4.0M	static-libressl-3.1.4-macos10.11.pkg
 4.0M	static-libressl-3.1.4-macos10.15.pkg
 872K	static-libunistring-0.9.10-macos10.11.pkg
