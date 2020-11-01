@@ -196,6 +196,8 @@ f55eb6e3d4e30b474e9bc4a3930c82cdf449b05a  libffi-3.2.1-macos10.15.pkg
 3aa05650be22043284968a9e01b90bfc46698cb1  libidn-1.33-macos10.15.pkg
 274394abfaf699c685aa2579bb72b49835674a72  libidn-1.36-macos10.11.pkg
 6aeb9eef05404ba29f3a664916c4511ba95ef552  libidn-1.36-macos10.15.pkg
+fd15e727ab75c37580694eb465426c887807f90b  libidn2-2.3.0-macos10.11.pkg
+6848acf322dfce4aa3190b76523f06e5ace99bc7  libidn2-2.3.0-macos10.15.pkg
 6e5906b951feebe557dc5357c9680d2b365a660f  libintl-0.20.1-macos10.11.pkg
 312316f1834ff2f676b8c90bf7b14eebba8f790a  libintl-0.20.1-macos10.15.pkg
 8addde7eb5430e37851f180f19988be29ce59bef  libintl-0.21-macos10.11.pkg
@@ -352,6 +354,8 @@ dc7bc22370a01d0ae9d36252f7a0c27ab7a08b70  static-gmp-6.1.2-macos10.15.pkg
 7fcae94bce4220a855929f5727afa589d042a226  static-libevent-2.1.12-macos10.15.pkg
 911323fe235b76018cb5cbad9e12a4790cde4ab4  static-libidn-1.36-macos10.11.pkg
 34c7197760139e0938890c3795c973ced059e497  static-libidn-1.36-macos10.15.pkg
+21074eb785f2ae17ea41dd1381cd8b4f5e8f3420  static-libidn2-2.3.0-macos10.11.pkg
+6cb42ed9e1de2514f9bbb1e70c6b64fe24143c33  static-libidn2-2.3.0-macos10.15.pkg
 14457c5e797a16740eb0914fef1263f59f1c7ab2  static-libintl-0.21-macos10.11.pkg
 e55554e9b155cb1b0695465e1633fc54c0c4bc55  static-libintl-0.21-macos10.15.pkg
 416772c5fb3791af678695cd206554f5961026cc  static-libressl-3.1.4-macos10.11.pkg

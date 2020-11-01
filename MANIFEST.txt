@@ -196,6 +196,8 @@ libidn-1.33-macos10.11.pkg
 libidn-1.33-macos10.15.pkg
 libidn-1.36-macos10.11.pkg
 libidn-1.36-macos10.15.pkg
+libidn2-2.3.0-macos10.11.pkg
+libidn2-2.3.0-macos10.15.pkg
 libintl-0.20.1-macos10.11.pkg
 libintl-0.20.1-macos10.15.pkg
 libintl-0.21-macos10.11.pkg
@@ -352,6 +354,8 @@ static-libevent-2.1.12-macos10.11.pkg
 static-libevent-2.1.12-macos10.15.pkg
 static-libidn-1.36-macos10.11.pkg
 static-libidn-1.36-macos10.15.pkg
+static-libidn2-2.3.0-macos10.11.pkg
+static-libidn2-2.3.0-macos10.15.pkg
 static-libintl-0.21-macos10.11.pkg
 static-libintl-0.21-macos10.15.pkg
 static-libressl-3.1.4-macos10.11.pkg
