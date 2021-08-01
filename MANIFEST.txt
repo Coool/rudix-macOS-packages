@@ -10,6 +10,7 @@ apr-1.7.0-macos10.11.pkg
 apr-1.7.0-macos10.15.pkg
 apr-util-1.6.1-macos10.11.pkg
 apr-util-1.6.1-macos10.15.pkg
+apr-util-1.6.1-macos11.4.pkg
 argtable-2.13-macos10.11.pkg
 argtable-2.13-macos10.15.pkg
 aria2-1.31.0-macos10.11.pkg
@@ -20,6 +21,7 @@ aspell-0.60.6.1-macos10.11.pkg
 aspell-0.60.6.1-macos10.15.pkg
 autoconf-2.69-macos10.11.pkg
 autoconf-2.69-macos10.15.pkg
+autoconf-2.71-macos11.2.pkg
 automake-1.16.1-macos10.11.pkg
 automake-1.16.1-macos10.15.pkg
 autossh-1.4e-macos10.11.pkg
@@ -88,6 +90,8 @@ erlang-22.3-macos10.11.pkg
 erlang-22.3-macos10.15.pkg
 expat-2.2.9-macos10.11.pkg
 expat-2.2.9-macos10.15.pkg
+expat-2.4.1-macos10.11.pkg
+expat-2.4.1-macos11.5.pkg
 ffmpeg-4.1.3-macos10.11.pkg
 figlet-2.2.5-macos10.11.pkg
 figlet-2.2.5-macos10.15.pkg
@@ -149,6 +153,8 @@ gzip-1.8-macos10.11.pkg
 gzip-1.8-macos10.15.pkg
 hello-2.10-macos10.11.pkg
 hello-2.10-macos10.15.pkg
+htop-3.0.5-macos10.11.pkg
+htop-3.0.5-macos11.2.pkg
 idutils-4.6-macos10.11.pkg
 idutils-4.6-macos10.15.pkg
 iftop-1.0-macos10.11.pkg
@@ -344,6 +350,10 @@ sqlite-3.12.2-macos10.15.pkg
 squid-3.5.7-macos10.11.pkg
 static-apr-1.7.0-macos10.11.pkg
 static-apr-1.7.0-macos10.15.pkg
+static-apr-util-1.6.1-macos10.11.pkg
+static-apr-util-1.6.1-macos11.4.pkg
+static-expat-2.4.1-macos10.11.pkg
+static-expat-2.4.1-macos11.5.pkg
 static-gettext-0.21-macos10.11.pkg
 static-gettext-0.21-macos10.15.pkg
 static-glib-2.54.3-macos10.11.pkg

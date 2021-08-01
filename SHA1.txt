@@ -10,6 +10,7 @@ d647418d39589ff816805883d7f039c179d15261  apr-1.7.0-macos10.11.pkg
 823e106fc957ba8006a9ee98da9b7e6f3c1208e6  apr-1.7.0-macos10.15.pkg
 d0ae5a67585dde7e89bfb8d0d98514b205bb03d9  apr-util-1.6.1-macos10.11.pkg
 d906953f781712ef6e8523d3ce046288f5e5dac1  apr-util-1.6.1-macos10.15.pkg
+701207f9f6e0a41e5a83692c3e2ed0ead6b2ed93  apr-util-1.6.1-macos11.4.pkg
 15ed23f0ac9b95bbe31dbd1a7741c48ede9d6ada  argtable-2.13-macos10.11.pkg
 d6bf67278f30332cf2fb241154ca5ad83f799ca2  argtable-2.13-macos10.15.pkg
 68ee82018375bd89107ae73514735e26f94222bc  aria2-1.31.0-macos10.11.pkg
@@ -20,6 +21,7 @@ c75d7b1a02fbba67d7383c3e2bd187968ebe8ff0  aria2-1.31.0-macos10.15.pkg
 da821bcea093d38f4d0298d12f2638bb5c43af23  aspell-0.60.6.1-macos10.15.pkg
 b22fb09a7cd1269a917bf426bc991c805579ae2d  autoconf-2.69-macos10.11.pkg
 f70d63b4cb2007f91d56b4e0bf5d7a068c4345f1  autoconf-2.69-macos10.15.pkg
+66527696b9e7e8b2136d1113633d8bd2e67fc8dd  autoconf-2.71-macos11.2.pkg
 dbb8d4b1e5b22200094da256ef99e36d9e5c2089  automake-1.16.1-macos10.11.pkg
 4e29551171bdf49e30ce68737cb8a553344641de  automake-1.16.1-macos10.15.pkg
 8de0c80aeb6e01f55e33dbe3033e0f4804dab47e  autossh-1.4e-macos10.11.pkg
@@ -88,6 +90,8 @@ c34415d2919e27cc0bb822ca318a1e8f963bd9a4  emacs-27.1-macos10.15.pkg
 c76a6ec888555cdcc710b6d1e0a7e09cee3a1a46  erlang-22.3-macos10.15.pkg
 5c0deeb3b0183f6ac4f2006d517de473a66c5eb3  expat-2.2.9-macos10.11.pkg
 c8a3c39dc0d1d9e1e391fc8b6b79cc71322fd9d7  expat-2.2.9-macos10.15.pkg
+fe86183b4b51359d48c729382043a44cae31fd5f  expat-2.4.1-macos10.11.pkg
+79280cdc3d8217781f9ea51a81210204ea68124a  expat-2.4.1-macos11.5.pkg
 924a4309136e2cf105b4288b35aa25d5379be3e6  ffmpeg-4.1.3-macos10.11.pkg
 d318bcb5c2e622e0935e8aee0deb6c1a58436958  figlet-2.2.5-macos10.11.pkg
 5085dde004a019af079a246f95858dfb603e6de5  figlet-2.2.5-macos10.15.pkg
@@ -149,6 +153,8 @@ c80e1890da32d81e8f0834726f916756683843d6  gzip-1.8-macos10.11.pkg
 06df4b84cbc66927808f4b8fcf92199ef6b4c4b8  gzip-1.8-macos10.15.pkg
 ccbdd7e4ee827a4a5d6d90ce0664175eee15818d  hello-2.10-macos10.11.pkg
 bc9b134f85487c1d5495cb3f952e5ea15c761fa7  hello-2.10-macos10.15.pkg
+305cb48e9a6573f57967ec0e90c50a40d2b91d43  htop-3.0.5-macos10.11.pkg
+dbb78d04ff2194f95b59fe872763c45245ae1eba  htop-3.0.5-macos11.2.pkg
 15269d31468fb59446edde35f719cc87d7d15f35  idutils-4.6-macos10.11.pkg
 c365352c57d94b525ef37deecd828271c1d07e26  idutils-4.6-macos10.15.pkg
 94e3d97044951a77ce67ef531c42dfe80547df33  iftop-1.0-macos10.11.pkg
@@ -344,6 +350,10 @@ a7a47daaa1d2059d8425c0f22d9506a7d6368c2d  sqlite-3.12.2-macos10.15.pkg
 49653e32e7ff2949ff3486ad36cd4695a1a4a4e9  squid-3.5.7-macos10.11.pkg
 5525e101106785f79f1e319070d34cf89c788b66  static-apr-1.7.0-macos10.11.pkg
 ad8602bb627a4f5321b4b84b53b8a895239abd99  static-apr-1.7.0-macos10.15.pkg
+e8957aefa9acfebb8c6e1a73ffd61abdaac69de7  static-apr-util-1.6.1-macos10.11.pkg
+44967175784ed57f11601a5d9d99bf2290a9492b  static-apr-util-1.6.1-macos11.4.pkg
+b68aaa351be279c2179710a805e2b4f341a13730  static-expat-2.4.1-macos10.11.pkg
+5a5bc9c041e8bf281d9fffaa22e6425118e236af  static-expat-2.4.1-macos11.5.pkg
 e0c3d0349db5d9e26974650f16073f079ae59d53  static-gettext-0.21-macos10.11.pkg
 067e04e0f44c39ec4be82cff92ae2107000dd239  static-gettext-0.21-macos10.15.pkg
 c0d193370baad32e5036b17a19c39b3168277d46  static-glib-2.54.3-macos10.11.pkg
