@@ -294,8 +294,6 @@
  16M	node-9.5.0-macos10.11.pkg
 764K	nspr-4.19-macos10.11.pkg
 812K	nspr-4.19-macos10.15.pkg
- 53M	oc-3.11.0-macos10.11.pkg
- 53M	oc-3.11.0-macos10.15.pkg
  64M	ocaml-4.03.0-macos10.11.pkg
  64M	ocaml-4.03.0-macos10.15.pkg
 260K	offlineimap-6.5.6-macos10.11.pkg
