@@ -225,6 +225,7 @@
 196K	libpsl-0.21.1-macos10.15.pkg
 2.2M	libressl-3.1.4-macos10.11.pkg
 2.2M	libressl-3.1.4-macos10.15.pkg
+3.0M	libressl-3.3.3-macos11.5.pkg
 3.1M	libsigcpp-2.2.10-macos10.11.pkg
 3.2M	libsigcpp-2.2.10-macos10.15.pkg
  52K	libsigsegv-2.10-macos10.11.pkg
@@ -300,6 +301,7 @@
 276K	offlineimap-6.5.6-macos10.15.pkg
 5.5M	openssl-1.1.1h-macos10.11.pkg
 5.7M	openssl-1.1.1h-macos10.15.pkg
+5.7M	openssl-1.1.1k-macos11.5.pkg
 2.4M	p7zip-16.02-macos10.11.pkg
 2.4M	p7zip-16.02-macos10.15.pkg
 904K	parallel-20141122-macos10.11.pkg
@@ -374,10 +376,12 @@
 244K	static-libpsl-0.21.1-macos10.15.pkg
 4.0M	static-libressl-3.1.4-macos10.11.pkg
 4.0M	static-libressl-3.1.4-macos10.15.pkg
+5.2M	static-libressl-3.3.3-macos11.5.pkg
 872K	static-libunistring-0.9.10-macos10.11.pkg
 864K	static-libunistring-0.9.10-macos10.15.pkg
 256K	static-neon-0.31.2-macos10.11.pkg
 256K	static-neon-0.31.2-macos10.15.pkg
+5.7M	static-openssl-1.1.1k-macos11.5.pkg
 1.2M	static-pcre-8.44-macos10.11.pkg
 1.2M	static-pcre-8.44-macos10.15.pkg
  92K	static-pkgconf-1.7.3-macos10.11.pkg
