@@ -225,6 +225,7 @@ libpsl-0.21.1-macos10.11.pkg
 libpsl-0.21.1-macos10.15.pkg
 libressl-3.1.4-macos10.11.pkg
 libressl-3.1.4-macos10.15.pkg
+libressl-3.3.3-macos10.11.pkg
 libressl-3.3.3-macos11.5.pkg
 libsigcpp-2.2.10-macos10.11.pkg
 libsigcpp-2.2.10-macos10.15.pkg
@@ -301,6 +302,7 @@ offlineimap-6.5.6-macos10.11.pkg
 offlineimap-6.5.6-macos10.15.pkg
 openssl-1.1.1h-macos10.11.pkg
 openssl-1.1.1h-macos10.15.pkg
+openssl-1.1.1k-macos10.11.pkg
 openssl-1.1.1k-macos11.5.pkg
 p7zip-16.02-macos10.11.pkg
 p7zip-16.02-macos10.15.pkg
@@ -376,11 +378,13 @@ static-libpsl-0.21.1-macos10.11.pkg
 static-libpsl-0.21.1-macos10.15.pkg
 static-libressl-3.1.4-macos10.11.pkg
 static-libressl-3.1.4-macos10.15.pkg
+static-libressl-3.3.3-macos10.11.pkg
 static-libressl-3.3.3-macos11.5.pkg
 static-libunistring-0.9.10-macos10.11.pkg
 static-libunistring-0.9.10-macos10.15.pkg
 static-neon-0.31.2-macos10.11.pkg
 static-neon-0.31.2-macos10.15.pkg
+static-openssl-1.1.1k-macos10.11.pkg
 static-openssl-1.1.1k-macos11.5.pkg
 static-pcre-8.44-macos10.11.pkg
 static-pcre-8.44-macos10.15.pkg
