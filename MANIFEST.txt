@@ -80,6 +80,7 @@ dropbear-2019.78-macos10.11.pkg
 dropbear-2019.78-macos10.15.pkg
 dtach-0.9-macos10.11.pkg
 dtach-0.9-macos10.15.pkg
+dtach-0.9-macos11.5.pkg
 ed-1.16-macos10.11.pkg
 ed-1.16-macos10.15.pkg
 emacs-26.3-macos10.11.pkg
@@ -249,6 +250,7 @@ lua-5.3.6-macos10.11.pkg
 lua-5.3.6-macos10.15.pkg
 lua-5.4.0-macos10.11.pkg
 lua-5.4.0-macos10.15.pkg
+lua-5.4.3-macos11.5.pkg
 luajit-2.0.5-macos10.11.pkg
 luajit-2.0.5-macos10.15.pkg
 lunzip-1.11-macos10.11.pkg
@@ -338,6 +340,7 @@ scons-2.3.1-macos10.11.pkg
 scons-2.3.1-macos10.15.pkg
 screen-4.8.0-macos10.11.pkg
 screen-4.8.0-macos10.15.pkg
+screen-4.8.0-macos11.5.pkg
 sed-4.7-macos10.11.pkg
 sed-4.7-macos10.15.pkg
 sed-4.8-macos10.11.pkg
@@ -407,6 +410,7 @@ thttpd-2.26-macos10.11.pkg
 thttpd-2.26-macos10.15.pkg
 tig-2.5.1-macos10.11.pkg
 tig-2.5.1-macos10.15.pkg
+tig-2.5.4-macos11.5.pkg
 tmux-3.2a-macos10.11.pkg
 tmux-3.2a-macos11.5.pkg
 trac-1.0.1-macos10.15.pkg
@@ -436,5 +440,7 @@ zlib-1.2.11-macos10.11.pkg
 zlib-1.2.11-macos10.15.pkg
 zsh-5.8-macos10.11.pkg
 zsh-5.8-macos10.15.pkg
+zsh-5.8-macos11.5.pkg
 zsync-0.6.2-macos10.11.pkg
 zsync-0.6.2-macos10.15.pkg
+zsync-0.6.2-macos11.5.pkg
