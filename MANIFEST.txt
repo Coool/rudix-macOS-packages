@@ -314,6 +314,7 @@ pcre-8.44-macos10.11.pkg
 pcre-8.44-macos10.15.pkg
 pkg-config-0.29.2-macos10.11.pkg
 pkg-config-0.29.2-macos10.15.pkg
+pkg-config-0.29.2-macos11.5.pkg
 pkgconf-1.7.3-macos10.11.pkg
 pkgconf-1.7.3-macos10.15.pkg
 protobuf-3.5.1-macos10.11.pkg

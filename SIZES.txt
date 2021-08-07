@@ -314,6 +314,7 @@
 968K	pcre-8.44-macos10.15.pkg
 280K	pkg-config-0.29.2-macos10.11.pkg
 276K	pkg-config-0.29.2-macos10.15.pkg
+276K	pkg-config-0.29.2-macos11.5.pkg
  68K	pkgconf-1.7.3-macos10.11.pkg
  68K	pkgconf-1.7.3-macos10.15.pkg
 4.2M	protobuf-3.5.1-macos10.11.pkg
