@@ -407,6 +407,7 @@ MD5 (thttpd-2.26-macos10.11.pkg) = 4833a9aca22758e0611d991e80279aba
 MD5 (thttpd-2.26-macos10.15.pkg) = 55c8f60870de6bad61362a47335ff196
 MD5 (tig-2.5.1-macos10.11.pkg) = d73fc4c29da148ab7fc6b0266ae50291
 MD5 (tig-2.5.1-macos10.15.pkg) = 25fbe11399ff6743e3123c6196fd1559
+MD5 (tmux-3.2a-macos11.5.pkg) = 6fd20a68bc1bcdefd29d964a23f2bd61
 MD5 (trac-1.0.1-macos10.15.pkg) = 18e64faabf493ae8bed90401d87b9ce3
 MD5 (tree-1.7.0-macos10.11.pkg) = 40b9d66bc0fc2f6561997d960c5194a8
 MD5 (tree-1.7.0-macos10.15.pkg) = 060fcb1174285b8302716a4b8c5f36a1
