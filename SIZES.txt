@@ -250,6 +250,7 @@
 396K	lua-5.3.6-macos10.15.pkg
 448K	lua-5.4.0-macos10.11.pkg
 440K	lua-5.4.0-macos10.15.pkg
+452K	lua-5.4.3-macos10.11.pkg
 444K	lua-5.4.3-macos11.5.pkg
 704K	luajit-2.0.5-macos10.11.pkg
 696K	luajit-2.0.5-macos10.15.pkg
@@ -410,6 +411,7 @@
  80K	thttpd-2.26-macos10.15.pkg
 268K	tig-2.5.1-macos10.11.pkg
 260K	tig-2.5.1-macos10.15.pkg
+280K	tig-2.5.4-macos10.11.pkg
 276K	tig-2.5.4-macos11.5.pkg
 508K	tmux-3.2a-macos10.11.pkg
 504K	tmux-3.2a-macos11.5.pkg

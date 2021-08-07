@@ -250,6 +250,7 @@ lua-5.3.6-macos10.11.pkg
 lua-5.3.6-macos10.15.pkg
 lua-5.4.0-macos10.11.pkg
 lua-5.4.0-macos10.15.pkg
+lua-5.4.3-macos10.11.pkg
 lua-5.4.3-macos11.5.pkg
 luajit-2.0.5-macos10.11.pkg
 luajit-2.0.5-macos10.15.pkg
@@ -410,6 +411,7 @@ thttpd-2.26-macos10.11.pkg
 thttpd-2.26-macos10.15.pkg
 tig-2.5.1-macos10.11.pkg
 tig-2.5.1-macos10.15.pkg
+tig-2.5.4-macos10.11.pkg
 tig-2.5.4-macos11.5.pkg
 tmux-3.2a-macos10.11.pkg
 tmux-3.2a-macos11.5.pkg
