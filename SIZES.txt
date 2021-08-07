@@ -407,6 +407,7 @@
  80K	thttpd-2.26-macos10.15.pkg
 268K	tig-2.5.1-macos10.11.pkg
 260K	tig-2.5.1-macos10.15.pkg
+508K	tmux-3.2a-macos10.11.pkg
 504K	tmux-3.2a-macos11.5.pkg
 1.6M	trac-1.0.1-macos10.15.pkg
  60K	tree-1.7.0-macos10.11.pkg
