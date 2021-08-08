@@ -48,6 +48,7 @@
  92K	cabextract-1.6-macos10.15.pkg
 104K	ccache-3.7.11-macos10.11.pkg
 100K	ccache-3.7.11-macos10.15.pkg
+100K	ccache-3.7.12-macos11.5.pkg
 108K	ccache-3.7.7-macos10.11.pkg
 104K	ccache-3.7.7-macos10.15.pkg
 132K	cflow-1.4-macos10.11.pkg

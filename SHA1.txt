@@ -48,6 +48,7 @@ c494ba24e7a9304ebf0ba4a5bebec39a3dd9e49c  bvi-1.4.0-macos10.15.pkg
 238f5cd6bceba74bca63c9ae1bbd69c2b9fba1d2  cabextract-1.6-macos10.15.pkg
 b3e66408e62c5a7e7d88ed92f581c5f88bd3e3b3  ccache-3.7.11-macos10.11.pkg
 b436a86c3a7149c4b7e00b4dd3d9f609bf2b0068  ccache-3.7.11-macos10.15.pkg
+ce78b56f208d4b20e8665f8306edbc5e9617bfb1  ccache-3.7.12-macos11.5.pkg
 f7ef0e7ebb199fa643f3f95534b87dd6693a95d9  ccache-3.7.7-macos10.11.pkg
 75e6a5dd44b525b2d47fb95ef13a67afe9386efb  ccache-3.7.7-macos10.15.pkg
 c348ca93401c17453e1c5926ca7167c4f4ab1dcd  cflow-1.4-macos10.11.pkg

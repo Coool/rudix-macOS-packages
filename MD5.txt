@@ -48,6 +48,7 @@ MD5 (cabextract-1.6-macos10.11.pkg) = a78af2bf9b0aeaf8ae803136c7c57cf6
 MD5 (cabextract-1.6-macos10.15.pkg) = 362580719ea16c9d825337b6a4058d42
 MD5 (ccache-3.7.11-macos10.11.pkg) = 23cbbbb40d409fabe31ba82ea78bdb47
 MD5 (ccache-3.7.11-macos10.15.pkg) = 9ad82ea3625b0c65cd32ee5fd55fc592
+MD5 (ccache-3.7.12-macos11.5.pkg) = df1605ff88e5acfb8aca93641d7e188c
 MD5 (ccache-3.7.7-macos10.11.pkg) = 71a145b08e2bf9468168e83bdf2fa807
 MD5 (ccache-3.7.7-macos10.15.pkg) = 3250f882ca6193d7f7b13c8a062ff10b
 MD5 (cflow-1.4-macos10.11.pkg) = ceaacb96e6a90b3c1b89dc47517a2682
