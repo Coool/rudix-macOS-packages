@@ -429,6 +429,7 @@ vim-8.2.1139-macos10.11.pkg
 vim-8.2.1139-macos10.15.pkg
 vim-8.2.1845-macos10.11.pkg
 vim-8.2.1845-macos10.15.pkg
+vim-8.2.3313-macos11.5.pkg
 wbox-5-macos10.11.pkg
 wbox-5-macos10.15.pkg
 wdiff-1.2.2-macos10.11.pkg

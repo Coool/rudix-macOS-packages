@@ -429,6 +429,7 @@
 8.9M	vim-8.2.1139-macos10.15.pkg
 8.8M	vim-8.2.1845-macos10.11.pkg
 9.0M	vim-8.2.1845-macos10.15.pkg
+9.2M	vim-8.2.3313-macos11.5.pkg
  24K	wbox-5-macos10.11.pkg
  24K	wbox-5-macos10.15.pkg
  92K	wdiff-1.2.2-macos10.11.pkg

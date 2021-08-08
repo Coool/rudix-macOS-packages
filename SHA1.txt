@@ -429,6 +429,7 @@ a4dbc35406e7207d2194ab8ed6616f3abb4f74d3  vasm-1.8g-macos10.11.pkg
 4acf23e5613a8d39ce04324a0ab2ac58cdeff2fd  vim-8.2.1139-macos10.15.pkg
 ae1826e417f6098bb8e6a2bda3cc622b4b7cb0aa  vim-8.2.1845-macos10.11.pkg
 667f5e83c85cc400acd065365e04c7262f271626  vim-8.2.1845-macos10.15.pkg
+0c2420358264bac3bf97e62f50d91f5be37824ce  vim-8.2.3313-macos11.5.pkg
 b34e3fbbbeb04fb9e0cc3d261dd68f32f4089ba4  wbox-5-macos10.11.pkg
 eca7390fb7885aff593712a2eb85cafcf4224f83  wbox-5-macos10.15.pkg
 d68a0584dab89c65ce728bf5acda5ed5b62bd1ca  wdiff-1.2.2-macos10.11.pkg
