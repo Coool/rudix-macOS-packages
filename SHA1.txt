@@ -212,6 +212,7 @@ fd15e727ab75c37580694eb465426c887807f90b  libidn2-2.3.0-macos10.11.pkg
 312316f1834ff2f676b8c90bf7b14eebba8f790a  libintl-0.20.1-macos10.15.pkg
 8addde7eb5430e37851f180f19988be29ce59bef  libintl-0.21-macos10.11.pkg
 7bda8b505d91cee374cef91b8675a1f8d978649d  libintl-0.21-macos10.15.pkg
+54086ed05df4d541017e7239f43c38b21d3d26c1  libintl-0.21-macos11.5.pkg
 49eb03f883dc1cb4597b5475ba48d8b0562200bd  libjpeg-9c-macos10.11.pkg
 3420870d77a8c09bb6e887b913b97056a7850482  libjpeg-9c-macos10.15.pkg
 1f66fab1dd39b617301d0be771911dbafa60c402  libmemcached-1.0.18-macos10.11.pkg
@@ -381,6 +382,7 @@ dc7bc22370a01d0ae9d36252f7a0c27ab7a08b70  static-gmp-6.1.2-macos10.15.pkg
 6cb42ed9e1de2514f9bbb1e70c6b64fe24143c33  static-libidn2-2.3.0-macos10.15.pkg
 14457c5e797a16740eb0914fef1263f59f1c7ab2  static-libintl-0.21-macos10.11.pkg
 e55554e9b155cb1b0695465e1633fc54c0c4bc55  static-libintl-0.21-macos10.15.pkg
+0ebc0c5b26e29e3f4873812a7cd1a8fd0ac24aef  static-libintl-0.21-macos11.5.pkg
 5c53a072903514d4b9083763cf52e875747adfd2  static-libpsl-0.21.1-macos10.11.pkg
 8c524ac0bc139bae02a5114d4cf17abc6ec4100d  static-libpsl-0.21.1-macos10.15.pkg
 416772c5fb3791af678695cd206554f5961026cc  static-libressl-3.1.4-macos10.11.pkg

@@ -212,6 +212,7 @@ libintl-0.20.1-macos10.11.pkg
 libintl-0.20.1-macos10.15.pkg
 libintl-0.21-macos10.11.pkg
 libintl-0.21-macos10.15.pkg
+libintl-0.21-macos11.5.pkg
 libjpeg-9c-macos10.11.pkg
 libjpeg-9c-macos10.15.pkg
 libmemcached-1.0.18-macos10.11.pkg
@@ -381,6 +382,7 @@ static-libidn2-2.3.0-macos10.11.pkg
 static-libidn2-2.3.0-macos10.15.pkg
 static-libintl-0.21-macos10.11.pkg
 static-libintl-0.21-macos10.15.pkg
+static-libintl-0.21-macos11.5.pkg
 static-libpsl-0.21.1-macos10.11.pkg
 static-libpsl-0.21.1-macos10.15.pkg
 static-libressl-3.1.4-macos10.11.pkg
