@@ -126,6 +126,7 @@ gettext-0.20.1-macos10.11.pkg
 gettext-0.20.1-macos10.15.pkg
 gettext-0.21-macos10.11.pkg
 gettext-0.21-macos10.15.pkg
+gettext-0.21-macos11.5.pkg
 glib-2.54.3-macos10.11.pkg
 glib-2.54.3-macos10.15.pkg
 global-6.6.3-macos10.11.pkg
@@ -365,6 +366,7 @@ static-expat-2.4.1-macos10.11.pkg
 static-expat-2.4.1-macos11.5.pkg
 static-gettext-0.21-macos10.11.pkg
 static-gettext-0.21-macos10.15.pkg
+static-gettext-0.21-macos11.5.pkg
 static-glib-2.54.3-macos10.11.pkg
 static-glib-2.54.3-macos10.15.pkg
 static-gmp-6.1.2-macos10.11.pkg

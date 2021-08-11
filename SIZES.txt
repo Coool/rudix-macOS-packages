@@ -126,6 +126,7 @@
 4.4M	gettext-0.20.1-macos10.15.pkg
 4.0M	gettext-0.21-macos10.11.pkg
 3.9M	gettext-0.21-macos10.15.pkg
+3.9M	gettext-0.21-macos11.5.pkg
 8.0M	glib-2.54.3-macos10.11.pkg
 8.0M	glib-2.54.3-macos10.15.pkg
 824K	global-6.6.3-macos10.11.pkg
@@ -365,6 +366,7 @@
 184K	static-expat-2.4.1-macos11.5.pkg
 8.8M	static-gettext-0.21-macos10.11.pkg
 8.7M	static-gettext-0.21-macos10.15.pkg
+8.7M	static-gettext-0.21-macos11.5.pkg
  15M	static-glib-2.54.3-macos10.11.pkg
  15M	static-glib-2.54.3-macos10.15.pkg
 812K	static-gmp-6.1.2-macos10.11.pkg
