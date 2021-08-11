@@ -88,6 +88,7 @@
  46M	emacs-26.3-macos10.15.pkg
  47M	emacs-27.1-macos10.11.pkg
  47M	emacs-27.1-macos10.15.pkg
+ 47M	emacs-27.2-macos11.5.pkg
  75M	erlang-22.3-macos10.11.pkg
  75M	erlang-22.3-macos10.15.pkg
 168K	expat-2.2.9-macos10.11.pkg

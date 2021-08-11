@@ -88,6 +88,7 @@ f71898710787e2763c3414f017c4e1952d260d63  ed-1.16-macos10.15.pkg
 4cfa17002baf6506201ba1dae3d1b2fb1d19de23  emacs-26.3-macos10.15.pkg
 addc31ebdd866db045eba6adc5f702f999ddf676  emacs-27.1-macos10.11.pkg
 c34415d2919e27cc0bb822ca318a1e8f963bd9a4  emacs-27.1-macos10.15.pkg
+f8408ad68986bdc9c0d5fe2c8566905c15f5c23a  emacs-27.2-macos11.5.pkg
 62b5c98e38d73d9986dc2bb1554eb89c3faa3543  erlang-22.3-macos10.11.pkg
 c76a6ec888555cdcc710b6d1e0a7e09cee3a1a46  erlang-22.3-macos10.15.pkg
 5c0deeb3b0183f6ac4f2006d517de473a66c5eb3  expat-2.2.9-macos10.11.pkg

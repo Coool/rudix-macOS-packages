@@ -88,6 +88,7 @@ emacs-26.3-macos10.11.pkg
 emacs-26.3-macos10.15.pkg
 emacs-27.1-macos10.11.pkg
 emacs-27.1-macos10.15.pkg
+emacs-27.2-macos11.5.pkg
 erlang-22.3-macos10.11.pkg
 erlang-22.3-macos10.15.pkg
 expat-2.2.9-macos10.11.pkg

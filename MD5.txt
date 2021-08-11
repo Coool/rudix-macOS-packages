@@ -88,6 +88,7 @@ MD5 (emacs-26.3-macos10.11.pkg) = ad0395f5e09f121a247243cf700e2a56
 MD5 (emacs-26.3-macos10.15.pkg) = 8379015e069614c6958cbdbb561e7b0b
 MD5 (emacs-27.1-macos10.11.pkg) = 1716f5eb0eacdad7db23f627e272b782
 MD5 (emacs-27.1-macos10.15.pkg) = 179392d15839ef759699b684182ad3c3
+MD5 (emacs-27.2-macos11.5.pkg) = 51a6665865bb4c7a068ac4c80596837e
 MD5 (erlang-22.3-macos10.11.pkg) = 8de8b754054e2a47c81b7ef1dfba595c
 MD5 (erlang-22.3-macos10.15.pkg) = 3b93a208760576369143e17520052487
 MD5 (expat-2.2.9-macos10.11.pkg) = ee8ad1e38c229230c8b4d5f0dcd4cce6
