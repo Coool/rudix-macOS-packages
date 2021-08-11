@@ -8,6 +8,7 @@ aewan-1.0.01-macos10.11.pkg
 aewan-1.0.01-macos10.15.pkg
 apr-1.7.0-macos10.11.pkg
 apr-1.7.0-macos10.15.pkg
+apr-1.7.0-macos11.5.pkg
 apr-util-1.6.1-macos10.11.pkg
 apr-util-1.6.1-macos10.15.pkg
 apr-util-1.6.1-macos11.4.pkg

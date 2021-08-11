@@ -8,6 +8,7 @@
 128K	aewan-1.0.01-macos10.15.pkg
 324K	apr-1.7.0-macos10.11.pkg
 320K	apr-1.7.0-macos10.15.pkg
+324K	apr-1.7.0-macos11.5.pkg
 180K	apr-util-1.6.1-macos10.11.pkg
 180K	apr-util-1.6.1-macos10.15.pkg
 180K	apr-util-1.6.1-macos11.4.pkg
