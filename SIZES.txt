@@ -325,6 +325,7 @@
 276K	pkg-config-0.29.2-macos11.5.pkg
  68K	pkgconf-1.7.3-macos10.11.pkg
  68K	pkgconf-1.7.3-macos10.15.pkg
+ 68K	pkgconf-1.7.3-macos11.5.pkg
 4.2M	protobuf-3.5.1-macos10.11.pkg
 4.2M	protobuf-3.5.1-macos10.15.pkg
  52K	pv-1.4.6-macos10.11.pkg

@@ -325,6 +325,7 @@ MD5 (pkg-config-0.29.2-macos10.15.pkg) = 0f9216b6edb64f2f9f314eed68cca3f2
 MD5 (pkg-config-0.29.2-macos11.5.pkg) = 192546e333a33995127de174cc603f54
 MD5 (pkgconf-1.7.3-macos10.11.pkg) = 53513a9af13d933b3e6d28220f7d0995
 MD5 (pkgconf-1.7.3-macos10.15.pkg) = 1e6104ef702dfafde5eb62ca7d34c51d
+MD5 (pkgconf-1.7.3-macos11.5.pkg) = e2455fd4b72d9ad08a7358e52921eb6a
 MD5 (protobuf-3.5.1-macos10.11.pkg) = 3ffc7931c87bd92075c663d9f18ee34f
 MD5 (protobuf-3.5.1-macos10.15.pkg) = d723ce810a71aee8aabe871e3752ed80
 MD5 (pv-1.4.6-macos10.11.pkg) = 10882155b562a700cd584bb00de14e13
