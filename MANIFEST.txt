@@ -29,6 +29,7 @@ autossh-1.4e-macos10.11.pkg
 autossh-1.4e-macos10.15.pkg
 bash-4.4-macos10.11.pkg
 bash-4.4-macos10.15.pkg
+bash-4.4.18-macos10.11.pkg
 bash-4.4.18-macos11.5.pkg
 bash-completion-2.7-macos10.11.pkg
 bash-completion-2.7-macos10.15.pkg

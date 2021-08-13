@@ -29,6 +29,7 @@ dbb8d4b1e5b22200094da256ef99e36d9e5c2089  automake-1.16.1-macos10.11.pkg
 796415e632e22805b69dc72dce8fb384d7be288a  autossh-1.4e-macos10.15.pkg
 096ab3f3633d9e30512559c029c2dab70d25d4db  bash-4.4-macos10.11.pkg
 c01e335b0f7a2bfe2262d3a5982b4cd9ba4a544d  bash-4.4-macos10.15.pkg
+b1738edc2e4b520d3ed0cb6a3ae00088386e7378  bash-4.4.18-macos10.11.pkg
 91d19c9ce18b8436301381b5a4e3c74d1471b7b5  bash-4.4.18-macos11.5.pkg
 3ce32b749c46513ca63bd7593753c76df8d28894  bash-completion-2.7-macos10.11.pkg
 65753ca2f2edcdab5fffe743550e619d691b65a6  bash-completion-2.7-macos10.15.pkg
