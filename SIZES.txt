@@ -316,6 +316,7 @@
 896K	parallel-20141122-macos10.15.pkg
 108K	patchutils-0.3.4-macos10.11.pkg
 104K	patchutils-0.3.4-macos10.15.pkg
+ 92K	patchutils-0.4.2-macos11.5.pkg
 1.1M	pcre-8.42-macos10.11.pkg
 1.1M	pcre-8.42-macos10.15.pkg
 956K	pcre-8.44-macos10.11.pkg

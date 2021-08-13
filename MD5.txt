@@ -316,6 +316,7 @@ MD5 (parallel-20141122-macos10.11.pkg) = 4c0662c725f0359a0556780691185bff
 MD5 (parallel-20141122-macos10.15.pkg) = 6562e9a3f3b6b15c86c15a433ad0c313
 MD5 (patchutils-0.3.4-macos10.11.pkg) = d61d4a9ed078c2b1d5e334aec490821d
 MD5 (patchutils-0.3.4-macos10.15.pkg) = f314d1b9378e32f18ae9e0769e1eb126
+MD5 (patchutils-0.4.2-macos11.5.pkg) = c44a45308edbca30d1f4e247f733ca73
 MD5 (pcre-8.42-macos10.11.pkg) = 0a113e27d64ba5d90d095a905148e609
 MD5 (pcre-8.42-macos10.15.pkg) = e5f234f2dc12d48ed7bb00e9885c59a6
 MD5 (pcre-8.44-macos10.11.pkg) = edb95442619b7b4e5218197a30134d11
