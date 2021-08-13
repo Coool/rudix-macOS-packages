@@ -29,6 +29,7 @@
  36K	autossh-1.4e-macos10.15.pkg
 2.6M	bash-4.4-macos10.11.pkg
 2.6M	bash-4.4-macos10.15.pkg
+2.6M	bash-4.4.18-macos11.5.pkg
 260K	bash-completion-2.7-macos10.11.pkg
 264K	bash-completion-2.7-macos10.15.pkg
 156K	bc-1.07.1-macos10.11.pkg
