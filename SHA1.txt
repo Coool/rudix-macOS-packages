@@ -261,6 +261,8 @@ a51ec7bb2f9fcddc8e93a44886196ab58234e7a6  lua-5.4.3-macos10.11.pkg
 fff88e3a87d3ce4b3c031e8f24bc025f181b6574  lua-5.4.3-macos11.5.pkg
 2456e62a718d340645eb3edf07805727e00a28ba  luajit-2.0.5-macos10.11.pkg
 73ffaddc4d3458b10c4bd8cb6296578127a9c918  luajit-2.0.5-macos10.15.pkg
+1bddc9803c4afa60a197f86cede55d80626419a7  luajit-2.1.0-macos11.6.pkg
+fd87c9430357edd8bd21d94bd7c7162bbbcb99da  luarocks-3.7.0-macos11.6.pkg
 117dc3d7a760796f93b59b4cca80a51214896b8c  lunzip-1.11-macos10.11.pkg
 25dc476ff738133703fb93cd0820a90dfea1d4e2  lunzip-1.11-macos10.15.pkg
 6fdacb0fc2afe012d7659e59d263ed495db35c77  lzip-1.17-macos10.11.pkg
