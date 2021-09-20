@@ -261,7 +261,9 @@
 444K	lua-5.4.3-macos11.5.pkg
 704K	luajit-2.0.5-macos10.11.pkg
 696K	luajit-2.0.5-macos10.15.pkg
+772K	luajit-2.1.0-macos10.11.pkg
 760K	luajit-2.1.0-macos11.6.pkg
+172K	luarocks-3.7.0-macos10.11.pkg
 172K	luarocks-3.7.0-macos11.6.pkg
  52K	lunzip-1.11-macos10.11.pkg
  52K	lunzip-1.11-macos10.15.pkg
