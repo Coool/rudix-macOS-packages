@@ -302,6 +302,7 @@ neon-0.31.2-macos10.11.pkg
 neon-0.31.2-macos10.15.pkg
 nettle-3.4.1-macos10.11.pkg
 nettle-3.4.1-macos10.15.pkg
+ninja-1.10.2-macos11.6.pkg
 ninja-1.9.0-macos10.11.pkg
 ninja-1.9.0-macos10.15.pkg
 nmap-6.40-macos10.11.pkg

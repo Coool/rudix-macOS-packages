@@ -302,6 +302,7 @@ MD5 (neon-0.31.2-macos10.11.pkg) = 78e37fda70a151268d60cdf8e81ed948
 MD5 (neon-0.31.2-macos10.15.pkg) = d030395973038e65e20309df751ec7ca
 MD5 (nettle-3.4.1-macos10.11.pkg) = 7a1e53e9ad64cbf978e676fd104f1af7
 MD5 (nettle-3.4.1-macos10.15.pkg) = b7e4dda943244821d662c4c9b57f0d7b
+MD5 (ninja-1.10.2-macos11.6.pkg) = 39977fced91c04662ef809a2d7959c87
 MD5 (ninja-1.9.0-macos10.11.pkg) = 6941af24ac8c7da381ea923cf0b3da49
 MD5 (ninja-1.9.0-macos10.15.pkg) = ef14aa0bca8a5f74a1d1b5a0e1732273
 MD5 (nmap-6.40-macos10.11.pkg) = ad754bbd04215a810a4d9f4724386263
