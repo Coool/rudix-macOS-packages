@@ -203,6 +203,7 @@ fc6e4a1c941e5f18a49728cc7c1fc62d0655e04e  libdnet-1.12-macos10.11.pkg
 7c073d541afdbce0ec7747239e8be3823bbc1ec1  libevent-2.1.12-macos10.15.pkg
 6cab1803a72048594be4bf68b806724ea481ae8b  libffi-3.2.1-macos10.11.pkg
 f55eb6e3d4e30b474e9bc4a3930c82cdf449b05a  libffi-3.2.1-macos10.15.pkg
+71df633ac22548097752e95983410a68a7c1854f  libffi-3.4.2-macos11.6.pkg
 309e7823c214078cae79560b4c65187ea0c746bb  libgsasl-1.8.0-macos10.11.pkg
 74a98199072e09f07add34ecc5aac0d9ea100a00  libgsasl-1.8.0-macos10.15.pkg
 5c275fa74510cdf70294d5688c6b9e9b1625e809  libidn-1.33-macos10.11.pkg
@@ -385,6 +386,7 @@ dc7bc22370a01d0ae9d36252f7a0c27ab7a08b70  static-gmp-6.1.2-macos10.15.pkg
 0b4f96273b5d8dd90b6dcfac8a9874b77fc74032  static-libev-4.33-macos10.15.pkg
 682debbe61217f3d25fdfcfa223612af653b73c0  static-libevent-2.1.12-macos10.11.pkg
 7fcae94bce4220a855929f5727afa589d042a226  static-libevent-2.1.12-macos10.15.pkg
+049a3cfb100a273832c3a847d37ab606319e5bc1  static-libffi-3.4.2-macos11.6.pkg
 911323fe235b76018cb5cbad9e12a4790cde4ab4  static-libidn-1.36-macos10.11.pkg
 34c7197760139e0938890c3795c973ced059e497  static-libidn-1.36-macos10.15.pkg
 21074eb785f2ae17ea41dd1381cd8b4f5e8f3420  static-libidn2-2.3.0-macos10.11.pkg

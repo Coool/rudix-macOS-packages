@@ -203,6 +203,7 @@
 1.2M	libevent-2.1.12-macos10.15.pkg
 172K	libffi-3.2.1-macos10.11.pkg
 164K	libffi-3.2.1-macos10.15.pkg
+236K	libffi-3.4.2-macos11.6.pkg
 272K	libgsasl-1.8.0-macos10.11.pkg
 268K	libgsasl-1.8.0-macos10.15.pkg
 360K	libidn-1.33-macos10.11.pkg
@@ -385,6 +386,7 @@
 128K	static-libev-4.33-macos10.15.pkg
 500K	static-libevent-2.1.12-macos10.11.pkg
 500K	static-libevent-2.1.12-macos10.15.pkg
+236K	static-libffi-3.4.2-macos11.6.pkg
 460K	static-libidn-1.36-macos10.11.pkg
 456K	static-libidn-1.36-macos10.15.pkg
 316K	static-libidn2-2.3.0-macos10.11.pkg
