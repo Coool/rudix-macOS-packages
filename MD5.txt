@@ -66,6 +66,7 @@ MD5 (coreutils-8.30-macos10.11.pkg) = 4807b22727f060bfa295370fafd24dec
 MD5 (coreutils-8.30-macos10.15.pkg) = c32c92e28c8d8c3befd91e5dcdae9d38
 MD5 (cscope-15.8b-macos10.11.pkg) = 6208e8cd4fe5c06eb70e77300cc78638
 MD5 (cscope-15.8b-macos10.15.pkg) = 394185707b9d1a9655c165bdab6aa734
+MD5 (cscope-15.9-macos11.6.pkg) = 34bc05deb2a4b4d64a723dfae1280040
 MD5 (ctags-5.8-macos10.11.pkg) = be44de1345010dc6efb5f4775f8f119a
 MD5 (cvs-1.11.23-macos10.11.pkg) = 797034eef41a027a630f98bbaa0e7a89
 MD5 (cvs-1.11.23-macos10.15.pkg) = fc209f3203efd9a0a91a1cfff8237d28

@@ -66,6 +66,7 @@
 3.9M	coreutils-8.30-macos10.15.pkg
 196K	cscope-15.8b-macos10.11.pkg
 192K	cscope-15.8b-macos10.15.pkg
+192K	cscope-15.9-macos11.6.pkg
 184K	ctags-5.8-macos10.11.pkg
 684K	cvs-1.11.23-macos10.11.pkg
 676K	cvs-1.11.23-macos10.15.pkg

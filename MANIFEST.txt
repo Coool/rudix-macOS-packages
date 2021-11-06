@@ -66,6 +66,7 @@ coreutils-8.30-macos10.11.pkg
 coreutils-8.30-macos10.15.pkg
 cscope-15.8b-macos10.11.pkg
 cscope-15.8b-macos10.15.pkg
+cscope-15.9-macos11.6.pkg
 ctags-5.8-macos10.11.pkg
 cvs-1.11.23-macos10.11.pkg
 cvs-1.11.23-macos10.15.pkg
