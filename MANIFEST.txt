@@ -25,6 +25,7 @@ autoconf-2.69-macos10.15.pkg
 autoconf-2.71-macos11.2.pkg
 automake-1.16.1-macos10.11.pkg
 automake-1.16.1-macos10.15.pkg
+automake-1.16.3-macos11.6.pkg
 autossh-1.4e-macos10.11.pkg
 autossh-1.4e-macos10.15.pkg
 bash-4.4-macos10.11.pkg
