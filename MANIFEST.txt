@@ -276,6 +276,7 @@ lzo-2.08-macos10.11.pkg
 lzo-2.08-macos10.15.pkg
 m4-1.4.18-macos10.11.pkg
 m4-1.4.18-macos10.15.pkg
+m4-1.4.19-macos11.6.pkg
 make-4.2.1-macos10.11.pkg
 make-4.2.1-macos10.15.pkg
 make-4.3-macos10.11.pkg

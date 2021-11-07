@@ -276,6 +276,7 @@ MD5 (lzo-2.08-macos10.11.pkg) = 9ce8a8f6389c6189e2bc1bfd6b1326db
 MD5 (lzo-2.08-macos10.15.pkg) = c662b7ba59dfe2c8c25ec9fe465a58c4
 MD5 (m4-1.4.18-macos10.11.pkg) = 7f60029247d24d5589a03bbb8eee21f6
 MD5 (m4-1.4.18-macos10.15.pkg) = 2d30d6b77593408731017c3bfbd046da
+MD5 (m4-1.4.19-macos11.6.pkg) = b7f5a77d19cecac594db44cbbe0dc32f
 MD5 (make-4.2.1-macos10.11.pkg) = e8137c254d0ee31d9340a0d837f515e3
 MD5 (make-4.2.1-macos10.15.pkg) = f26d27aa972999a80d5c35dd045033c5
 MD5 (make-4.3-macos10.11.pkg) = 76a7283fed8ddd82fa38a04ed1862778
