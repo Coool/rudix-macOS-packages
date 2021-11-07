@@ -342,6 +342,7 @@
 4.2M	protobuf-3.5.1-macos10.15.pkg
  52K	pv-1.4.6-macos10.11.pkg
  48K	pv-1.4.6-macos10.15.pkg
+336K	rcs-5.10.0-macos11.6.pkg
 332K	rcs-5.9.4-macos10.11.pkg
 324K	rcs-5.9.4-macos10.15.pkg
 628K	readline-8.0-macos10.11.pkg

@@ -342,6 +342,7 @@ MD5 (protobuf-3.5.1-macos10.11.pkg) = 3ffc7931c87bd92075c663d9f18ee34f
 MD5 (protobuf-3.5.1-macos10.15.pkg) = d723ce810a71aee8aabe871e3752ed80
 MD5 (pv-1.4.6-macos10.11.pkg) = 10882155b562a700cd584bb00de14e13
 MD5 (pv-1.4.6-macos10.15.pkg) = 7e67ff89dd81ae4cf0dfb4c69953a0f4
+MD5 (rcs-5.10.0-macos11.6.pkg) = 7aae278225a7e6380236bb6eb1b506e8
 MD5 (rcs-5.9.4-macos10.11.pkg) = 572eccd01d9a5047e1dda151d9eb6c1c
 MD5 (rcs-5.9.4-macos10.15.pkg) = f0095eb4e979c036b5c1240ffca76d12
 MD5 (readline-8.0-macos10.11.pkg) = 73b75f1c700a13a98ef4dd9bab742ca8

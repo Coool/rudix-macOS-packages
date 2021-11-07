@@ -342,6 +342,7 @@ protobuf-3.5.1-macos10.11.pkg
 protobuf-3.5.1-macos10.15.pkg
 pv-1.4.6-macos10.11.pkg
 pv-1.4.6-macos10.15.pkg
+rcs-5.10.0-macos11.6.pkg
 rcs-5.9.4-macos10.11.pkg
 rcs-5.9.4-macos10.15.pkg
 readline-8.0-macos10.11.pkg
